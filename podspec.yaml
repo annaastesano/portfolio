@@ -1,0 +1,21 @@
+grow_version: "==0.5.0"
+home: /content/pages/home.yaml
+root: ""
+
+title: "Anna Astesano"
+meta:
+  favicon_path: /source/images/favicon.png
+  image_path: /source/images/gae_logo.jpg
+  google_analytics_id: ""
+
+localization:
+  default_locale: en_US
+
+static_dirs:
+  - static_dir: /dist/
+    serve_at: /{root}/static/
+  - static_dir: /source/images/
+    serve_at: /{root}/static/images/
+
+sitemap:
+  enabled: true

@@ -1,0 +1,32 @@
+body {
+  color: #444;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.4em;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background-color: #ededed;
+  font-weight: normal;
+  margin: 0;
+  padding: 20px;
+}
+
+code {
+  font-size: 1.2em;
+}
+
+a {
+  color: #597bbb;
+  text-decoration: underline;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+}
+
+.content {
+  padding: 20px;
+}
