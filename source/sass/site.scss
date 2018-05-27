@@ -1,32 +1,32 @@
-body {
-  color: #444;
-  font-family: Helvetica, Arial, sans-serif;
-  line-height: 1.4em;
-  margin: 0;
-  padding: 0;
-}
+// sass-lint:disable clean-import-paths
 
-h1 {
-  background-color: #ededed;
-  font-weight: normal;
-  margin: 0;
-  padding: 20px;
-}
+// Fileoverview:
+// Main website scss file.
 
-code {
-  font-size: 1.2em;
-}
+@import 'settings/variables';
 
-a {
-  color: #597bbb;
-  text-decoration: underline;
+// Functions
+@import 'functions/base-unit';
 
-  &:hover,
-  &:focus {
-    text-decoration: none;
-  }
-}
+// Settings
+@import 'settings/all';
 
-.content {
-  padding: 20px;
-}
+// Mixins
+@import 'sass-mq/mq';
+@import 'mixins/all';
+
+// Generic
+@import 'generic/all';
+@import 'flexboxgrid-sass/flexboxgrid';
+
+
+// Global elements
+@import 'elements/all';
+
+// Utilities
+@import 'utilities/all';
+
+// Components
+
+
+// Pages
