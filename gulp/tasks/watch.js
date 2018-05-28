@@ -11,7 +11,7 @@ module.exports = function(gulp) {
       runSequence('sass', 'lint-sass');
     });
     watch(PATHS.JS_SOURCES, function() {
-      runSequence('lint-js');
+      runSequence('compile-js', 'lint-js');
     });
   };
 };

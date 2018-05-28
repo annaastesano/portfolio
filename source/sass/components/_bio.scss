@@ -2,7 +2,7 @@
   background-color: #2d2b29;
 
   &__title {
-    border-bottom: 2px solid $hillary;
+    border-bottom: 2px solid $ice;
     font-family: 'Questrial', sans-serif;
     font-size: 20px;
     line-height: base-unit(5);
@@ -11,7 +11,7 @@
 }
 
 .aa-media {
-  background-color: #B0A084;
+  background-color: $ice;
 
   &__title {
     border-bottom: 2px solid $aa-white;
@@ -58,7 +58,7 @@
   background-color: #2d2b29;
 
   &__title {
-    border-bottom: 2px solid $hillary;
+    border-bottom: 2px solid $ice;
     font-family: 'Questrial', sans-serif;
     font-size: 20px;
     line-height: base-unit(5);
@@ -78,7 +78,7 @@
 
   input,
   textarea {
-    background-color: $hillary;
+    background-color: $ice;
     border: 0;
     margin-top: base-unit(2);
     color: $charleston-green;
