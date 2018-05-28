@@ -19,7 +19,7 @@ body {
     position: relative;
 
     &::after {
-      background: repeating-linear-gradient(transparent, transparent $aa-baseline - 1, $aa-zircorn $aa-baseline - 1, $aa-zircorn $aa-baseline);
+      background: repeating-linear-gradient(transparent, transparent $aa-baseline - 1, $aa-font-error $aa-baseline - 1, $aa-font-error $aa-baseline);
       bottom: 0;
       content: '';
       opacity: .7;
@@ -32,20 +32,20 @@ body {
   }
 }
 
-.tr-display,
+.aa-display,
 h1,
-.tr-alpha,
+.aa-alpha,
 h2,
-.tr-beta,
+.aa-beta,
 h3,
-.tr-gamma {
+.aa-gamma {
   @include spacing(mt, 1);
   @include spacing(mb, 2);
 }
 
 
 
-.tr-display {
+.aa-display {
   font-size: $aa-display-mobile-font-size;
   font-weight: $aa-display-mobile-font-weight;
   line-height: $aa-display-mobile-line-height;
@@ -58,7 +58,7 @@ h3,
 }
 
 h1,
-.tr-alpha {
+.aa-alpha {
   font-size: $aa-h1-mobile-font-size;
   font-weight: $aa-h1-mobile-font-weight;
   line-height: $aa-h1-mobile-line-height;
@@ -71,7 +71,7 @@ h1,
 }
 
 h2,
-.tr-beta {
+.aa-beta {
   font-size: $aa-h2-mobile-font-size;
   font-weight: $aa-h2-mobile-font-weight;
   line-height: $aa-h2-mobile-line-height;
@@ -84,7 +84,7 @@ h2,
 }
 
 h3,
-.tr-gamma {
+.aa-gamma {
   font-size: $aa-h3-mobile-font-size;
   font-weight: $aa-h3-mobile-font-weight;
   line-height: $aa-h3-mobile-line-height;
@@ -97,7 +97,7 @@ h3,
 }
 
 h4,
-.tr-theta {
+.aa-theta {
   font-size: $aa-h4-mobile-font-size;
   font-weight: $aa-h4-mobile-font-weight;
   line-height: $aa-h4-mobile-line-height;
@@ -110,13 +110,13 @@ h4,
 }
 
 p,
-.tr-p {
+.aa-p {
   @include spacing(mb, 1);
   margin-top: 0;
 }
 
 
-.tr-p-smaller {
+.aa-p-smaller {
   font-size: $aa-p-smaller-mobile-font-size;
   font-weight: $aa-p-smaller-mobile-font-weight;
   line-height: $aa-p-smaller-mobile-line-height;
@@ -129,6 +129,6 @@ p,
 }
 
 
-.tr-color-light {
+.aa-color-light {
   color: $aa-font-color-light;
 }

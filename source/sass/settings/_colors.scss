@@ -1,45 +1,17 @@
 
-$aa-google-greens: (
-  50: #e2f3eb,
-  100: #b7e1cd,
-  200: #87ceac,
-  300: #57bb8a,
-  400: #33ac71,
-  500: #0f9d58,
-  600: #0d904f,
-  700: #0b8043,
-  800: #097138,
-  900: #055524
-);
-
-
+/* RGB */
+$charleston-green: #2D2B29;
+$hillary: #B0A084;
 
 // Fileoverview:
 // Color definitions.
 
-$aa-cornflower-blue: #4285f4;
-$aa-mariner: #3367d6;
-$aa-blue-darker: #3367d6;
-$aa-green: map-get($aa-google-greens, 700);
-$aa-green-darker: map-get($aa-google-greens, 500);
-$aa-gray: #9aa0a6;
-$aa-light-gray: #f1f3f4;
-
-$aa-zircorn: #dfe1e5;
-$aa-white: #fff;
-$aa-black: #161616;
+$aa-white: rgba(218, 221, 216, 1);
+$aa-black: $charleston-green;
 $aa-font-error: #f00;
 
 $aa-bastille: #292d33;
 $aa-logo-font: #5f6368;
 
-$aa-bg-colors: (
-  'blue': $aa-cornflower-blue,
-  'blue-darker': $aa-blue-darker,
-  'gray': $aa-light-gray,
-  'mariner': $aa-mariner,
-  'white': $aa-white,
-);
+$aa-bg-colors: ();
 
-
-$infographic-inactive: #868686;

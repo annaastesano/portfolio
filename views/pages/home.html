@@ -1,6 +1,81 @@
 {% extends '/views/base.html' %}
 
 {% block body %}
-<h1>Anna Astesano</h1>
+<section class="aa-hero">
+  <section class="wrapper container-fluid">
+  </section>
+</section>
+<section id="bio" class="aa-section aa-bio">
+  <section class="wrapper container-fluid aa-color-light">
+    <div class="row">
+      <div class="col-xs col-tablet-4 col-tablet-offset-1">
+        <h1 class="beta aa-bio__title">
+          Biography
+        </h1>
+        <p>
+            After her Bachelor and Master studies at the CNSMD in Lyon,  Anna Astesano joins Gabriella Dall’Olio class at Trinity and Laban Conservatoire of Music and Danse in the Postgraduate Advanced Diploma course.  She has won several national and international competitions. Between 2014 and 2015 she has been harpist at “Teatro alla Scala” Academy in Milan.In the summer 2015 she has attended the NJO (Netherlands Jugend Orchestra) and the Mediterranean Youth Orchestra followed by coaches from the London Symphonic Orchestra.
+        </p>
+      </div>
+      <div class="col-xs col-tablet-5 col-tablet-offset-1">
+        <p>
+            In June 2015 she has won the audition as first harp at “Luigi Cherubini” Orchestra, conducted by Maestro Riccardo Muti, where she is actually playing. In 2017 she has been awarded scholarships offered by the CRT Foundation in Turin and “De Sono” Association. From January 2018, she is following a mentor scheme at the Royal Opera House. She has been awarded the “Featured Young Performer” Award by the London Ear Festival, having soloist and chamber music concerts with the Uroboros Ensemble.
+            She has collaborated with the Royal Opera House, the Orchestra Sinfonica Nazionale (RAI) in Turin, the London Southbank Sinfonia and many others London institutions, performing at the Abbey Road Studios and Wigmore Hall.
+        </p>
+      </div>
+    </div>
+  </section>
+</section>
+
+<section id="media" class="aa-section aa-media">
+  <div class="wrapper container-fluid">
+    <div class="row">
+      <div class="col-xs col-tablet-10 col-xs-offset-1">
+        <h1 class="beta aa-media__title">
+          Media
+        </h1>
+        <div class="aa-media__medias">
+          <div class="aa-media__media">
+            <div class="video-container">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/JPpwOIGXQxA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="aa-media__media">
+            <div class="video-container">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/g-6ScuoFWSg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+        <div class="aa-media__medias">
+          <div class="aa-media__media">
+            <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293176297&color=%232d2b29&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+          </div>
+          <div class="aa-media__media">
+            <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293176297&color=%232d2b29&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="aa-section aa-contact aa-color-light">
+    <div class="wrapper container-fluid">
+        <div class="row">
+          <div class="col-xs col-tablet-4 col-tablet-offset-1">
+              <h1 class="beta aa-bio__title">
+                Contacts
+              </h1>
+            </div>
+            <div class="col-xs col-tablet-5 col-tablet-offset-1">
+              <label for="email">Your email address:</label>
+              <input type="email" id="email" name="email">
+              <label for="message">Message:</label>
+              <textarea name="" id="message" rows="10"></textarea>
+              <button type="submit">
+                Send
+              </button>
+            </div>
+        </div>
+</section>
 
 {% endblock %}

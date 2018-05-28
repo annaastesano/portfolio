@@ -1,5 +1,5 @@
 @each $name, $color in $aa-bg-colors {
-  .tr-u-bg-color--#{$name} {
+  .aa-u-bg-color--#{$name} {
     background-color: $color;
   }
 }
