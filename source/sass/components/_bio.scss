@@ -23,13 +23,24 @@
 
   &__medias, {
     display: flex;
+    flex-direction: column;
     margin-top: base-unit(7);
+
+    @include mq($from: tablet) {
+      flex-direction: row;
+    }
+
   }
 
   &__media {
-    margin-right: 3%;
     opacity: .75;
-    width: 48%;
+    width: 100%;
+    margin-bottom: base-unit(2);
+
+    @include mq($from: tablet) {
+      margin-right: 3%;
+      width: 48%;
+    }
 
     &:last-of-type {
       margin-right: 0;
