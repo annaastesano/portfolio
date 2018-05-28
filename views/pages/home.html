@@ -66,7 +66,7 @@
   </div>
 </section>
 
-<section id="contact" class="aa-section aa-contact aa-color-light">
+<section id="contacts" class="aa-section aa-contact aa-color-light">
     <div class="wrapper container-fluid">
         <div class="row">
           <div class="col-xs col-tablet-4 col-tablet-offset-1">
@@ -74,15 +74,21 @@
                 Contacts
               </h1>
             </div>
-            <div class="col-xs col-tablet-5 col-tablet-offset-1">
+            <form class="col-xs col-tablet-5 col-tablet-offset-1"
+                action="https://formspree.io/killer.paolo@gmail.com"
+                method="POST">
+              <label for="name">Your name:</label>
+              <input type="text" id="name" name="name">
               <label for="email">Your email address:</label>
-              <input type="email" id="email" name="email">
+              <input type="email" id="email" name="_replyto">
               <label for="message">Message:</label>
-              <textarea name="" id="message" rows="10"></textarea>
+              <input type="text" name="_gotcha" style="display:none">
+              <input type="hidden" name="_subject" value="Message via http://annaastesano.com">
+              <textarea id="message" name="message" rows="10" required></textarea>
               <button type="submit">
                 Send
               </button>
-            </div>
+            </form>
         </div>
 </section>
 

@@ -45,5 +45,7 @@
     "sass-mq": "github:flea89/sass-mq#3069b7bdf4a3d641ec467c3c0100a8715578bd6c",
     "flexboxgrid-sass": "github:hugeinc/flexboxgrid-sass#14d347cfa2dc11f9fac26fe00a8679fcda2736ff"
   },
-  "dependencies": {}
+  "dependencies": {
+    "smoothscroll": "^0.4.0"
+  }
 }
