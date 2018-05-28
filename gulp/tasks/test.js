@@ -7,7 +7,6 @@ module.exports = function(gulp) {
     runSequence(
       'clean',
       'symlink:dev',
-      'closure-deps',
       'lint-js',
       'karma',
       callback

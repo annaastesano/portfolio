@@ -27,12 +27,6 @@ module.exports = function js(gulp) {
         compress: {
           drop_console: true,
         },
-        preserveComments(node, comment) {
-          if (comment.value.includes('Full Tilt')) {
-            console.log('comment', comment.value);
-          }
-          return comment.value.includes('Full Tilt');
-        },
       })))
       .on('error', onError)
       .pipe(gulpif(dev, sourcemaps.write('./')))

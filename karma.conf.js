@@ -10,17 +10,12 @@ module.exports = function(config) {
 
     // frameworks to use
     // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
-    frameworks: ['jasmine', 'closure'],
+    frameworks: ['jasmine'],
 
 
     // list of files / patterns to load in the browser
     files: [
       // closure files
-      {pattern: 'source/js/closure-library/closure/goog/base.js', included: true, served: true},
-      {pattern: 'source/js/closure-library/closure/goog/deps.js', included: true, served: true},
-      {pattern: 'source/js/closure-library/closure/goog/**/*.js', included: false, served: true},
-      // our files
-      {pattern: 'source/js/deps.js', included: true, served: true},
       {pattern: 'source/js/**/!(*.spec).js', included: false, served: true},
       // tests
       {pattern: 'source/js/**/*.spec.js', included: true, served: true},

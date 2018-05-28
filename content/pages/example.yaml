@@ -1,8 +1,0 @@
-$title@: Example page
-$path: /{root}/example
-$view: /views/pages/example.html
-
-main_title@: Example page
-
-main_intro_text@: This is an example of another page within in your site. Go back to the <a href="%(homepage_url)s">homepage</a>.
-main_intro_text_home_url: /content/pages/home.yaml

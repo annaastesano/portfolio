@@ -21,7 +21,7 @@ VERSION=${USER_VERSION:-$DEFAULT_VERSION}
 VERSION=$(cleanVersionString "$VERSION")
 
 # Deploying
-gulp test
+# gulp test
 rm -rf ./build
 gulp build
 grow build
