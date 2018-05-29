@@ -1,5 +1,26 @@
 .aa-bio {
   background-color: #2d2b29;
+  position: relative;
+
+  .wrapper {
+    position: relative;
+  }
+
+  &::before {
+    background-image:
+      radial-gradient( rgba(45, 43, 41, .1), rgba(#2d2b29, .7) 80%),
+      url(../images/standing.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    bottom: 0;
+    content: '';
+    display: block;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
 
   &__title {
     border-bottom: 2px solid $ice;
@@ -33,9 +54,9 @@
   }
 
   &__media {
+    margin-bottom: base-unit(2);
     opacity: .75;
     width: 100%;
-    margin-bottom: base-unit(2);
 
     @include mq($from: tablet) {
       margin-right: 3%;
