@@ -1,6 +1,14 @@
-a {
-  color: $charleston-green;
+a,
+.link {
+  color: $red;
   text-decoration: none;
+
+  &__icon {
+    height: base-unit(4);
+    width: base-unit(4);
+    vertical-align: middle;
+    padding-right: base-unit(1);
+  }
 
   .aa-color-light &,
   &.aa-color-light {

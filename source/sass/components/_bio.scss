@@ -8,24 +8,31 @@
 
   &::before {
     background-image:
-      radial-gradient( rgba(45, 43, 41, .1), rgba(#2d2b29, .7) 80%),
-      url(../images/standing.jpg);
-    background-position: center;
+    radial-gradient( rgba(45, 43, 41, .1), rgba(#2d2b29, .7) 80%),
+    url(../images/anna-cut.png);
+    background-position: center bottom;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto 95%;
     bottom: 0;
     content: '';
+    opacity: .8;
     display: block;
     left: 0;
     position: absolute;
     right: 0;
     top: 0;
+
+    @include mq($from:tablet) {
+      background-position: bottom right 70px;
+      opacity: 1;
+    }
   }
 
   &__title {
     border-bottom: 2px solid #a7342d;
     font-family: 'Questrial', sans-serif;
     font-size: 20px;
+    line-height: base-unit(5);
     margin-bottom: base-unit(3);
     text-transform: uppercase;
   }
@@ -51,8 +58,10 @@
     margin-top: base-unit(4);
 
     .aa-event {
-      max-width: 50%;
-      flex-basis: 50%;
+      @include mq($from: tablet) {
+        max-width: 50%;
+        flex-basis: 50%;
+      }
     }
   }
 }
@@ -173,9 +182,9 @@
   }
 
   button {
-    background-color: $aa-white;
+    background-color: $charleston-green;
     border: 0;
-    color: $charleston-green;
+    color: $ice;
     float: right;
     margin-top: base-unit(5);
     padding: base-unit(1) 35px;
