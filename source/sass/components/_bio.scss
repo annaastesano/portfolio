@@ -23,7 +23,8 @@
   }
 
   &__title {
-    border-bottom: 2px solid $ice;
+    border-bottom: 2px solid #a7342d;
+    margin-bottom: base-unit(3);
     font-family: 'Questrial', sans-serif;
     font-size: 20px;
     line-height: base-unit(5);
@@ -35,7 +36,8 @@
   background-color: $ice;
 
   &__title {
-    border-bottom: 2px solid $aa-white;
+    border-bottom: 2px solid #a7342d;
+    margin-bottom: base-unit(3);
     font-family: 'Questrial', sans-serif;
     font-size: 20px;
     line-height: base-unit(5);
@@ -90,7 +92,8 @@
   background-color: #2d2b29;
 
   &__title {
-    border-bottom: 2px solid $ice;
+    border-bottom: 2px solid #a7342d;
+    margin-bottom: base-unit(3);
     font-family: 'Questrial', sans-serif;
     font-size: 20px;
     line-height: base-unit(5);
