@@ -5,7 +5,7 @@
   <section class="wrapper container-fluid">
     <div class="aa-hero__harpist">
       <div>
-        <span>H</span>
+        <span>h</span>
         <span>ar</span>
         <span>pist</span>
       </div>
@@ -25,16 +25,199 @@
         </p>
       </div>
       <div class="col-xs-12 col-tablet-5 col-tablet-offset-1">
-        <p>
-            In June 2015 she has won the audition as first harp at “Luigi Cherubini” Orchestra, conducted by Maestro Riccardo Muti, where she is actually playing. In 2017 she has been awarded scholarships offered by the CRT Foundation in Turin and “De Sono” Association. From January 2018, she is following a mentor scheme at the Royal Opera House. She has been awarded the “Featured Young Performer” Award by the London Ear Festival, having soloist and chamber music concerts with the Uroboros Ensemble.
-            She has collaborated with the Royal Opera House, the Orchestra Sinfonica Nazionale (RAI) in Turin, the London Southbank Sinfonia and many others London institutions, performing at the Abbey Road Studios and Wigmore Hall.
-        </p>
+          <p> In June 2015 she has won the audition as first harp at “Luigi Cherubini” Orchestra, conducted by Maestro Riccardo Muti, where she is actually playing.</p>
+          <p> In 2017 she has been awarded scholarships offered by the CRT Foundation in Turin and “De Sono” Association. From January 2018, she is following a mentor scheme at the Royal Opera House. She has been awarded the “Featured Young Performer” Award by the London Ear Festival, having soloist and chamber music concerts with the Uroboros Ensemble.</p>
+          <p>  She has collaborated with the Royal Opera House, the Orchestra Sinfonica Nazionale (RAI) in Turin, the London Southbank Sinfonia and many others London institutions, performing at the Abbey Road Studios and Wigmore Hall. </p>
       </div>
     </div>
   </section>
 </section>
 
-<section id="media" class="aa-section aa-media">
+<section id="events" class="aa-section aa-events">
+  <div class="wrapper container-fluid">
+    <div class="row">
+      <div class="col-xs-12 col-tablet-10 col-tablet-offset-1">
+        <h1 class="beta aa-events__title">
+          Events
+        </h1>
+        <ul class="aa-events__list">
+            {% for event in doc.events %}
+              <li class="aa-event">
+                <div class="aa-event__date">
+                  {{event.date}}
+                </div>
+                <div class="aa-event__where">
+                  {{event.where}}
+                </div>
+                {% if event.conductor %}
+                  <div class="aa-event__conductor">
+                    Conductor: <strong>{{event.conductor}}</strong>
+                  </div>
+                {% endif %}
+                <div class="aa-event__orchestra">
+                  {{event.orchestra}}
+                </div>
+                <div class="aa-event__programme">
+                  Programme: {{event.orchestra}}
+                </p>
+                <div class="aa-event__description">
+                  <p>
+                    {{event.more_info|safe}}
+                  </p>
+                </div>
+              </li>
+            {% endfor %}
+          {#
+          <li class="aa-event">
+            <div class="aa-event__date">
+                06 June 2018,
+            </div>
+            <div class="aa-event__where">
+              Trinity Laban Conservatoire of Music and Dance
+            </div>
+            <div class="aa-event__conductor">
+
+            </div>
+            <div class="aa-event__programme">
+                Programme: Haydn, Flagello, Boildieu, Debussy
+              </p>
+            <div class="aa-event__description">
+                <p>
+                  Final exam Postgraduate Advanced Diploma
+                </p>
+            </div>
+          </li>
+          <li class="aa-event">
+            <div class="aa-event__date">
+              09 June 2018, 1pm
+            </div>
+            <div class="aa-event__where">
+              St Alfege Church <!--, 3 Greenwich Church St, London SE10 9BJ -->
+            </div>
+            <div class="aa-event__programme">
+              Programme: Smetana, Pigovat, Salzedo
+            </p>
+            <div class="aa-event__description">
+              <p>
+                Lunchtime Concert
+              </p>
+            </div>
+          </li>
+          <li class="aa-event">
+            <div class="aa-event__date">
+              16 June 2018, 9pm
+            </div>
+            <div class="aa-event__where">
+              Ravenna, Palazzo Mauro de Andrè
+            </div>
+            <div class="aa-event__conductor">
+              Conductor <strong>Dennis Russell Davies</strong>
+            </div>
+            <div class="aa-event__orchestra">
+              Luigi Cherubini Orchestra
+            </div>
+            <div class="aa-event__programme">
+              Programme: Bernstein Symphony n.2, Glass Symphony n.11
+            </p>
+            <div class="aa-event__description">
+              <p>
+                Info and tickets: http://www.ravennafestival.org/events/
+              </p>
+            </div>
+          </li>
+          <li class="aa-event">
+            <div class="aa-event__date">
+              11 July 2018, 6pm
+            </div>
+            <div class="aa-event__where">
+              Grange Park Opera Festival
+              <!-- The Theatre in the Woods, West Horsley Place
+              Epsom Road, KT24 6AN
+              Pushkin
+              -->
+            </div>
+            <div class="aa-event__orchestra">
+                Orchestra and Chorus of Novaya Opera
+            </div>
+            <div class="aa-event__conductor">
+              Conductor:<strong> Jan Latham-Koenig</strong>
+            </div>
+            <div class="aa-event__description">
+              Composer: Konstantin Boyarsky
+            </div>
+          </li>
+          <li class="aa-event">
+            <div class="aa-event__date">
+              12 July 2018, 6pm
+            </div>
+            <div class="aa-event__where">
+              Grange Park Opera Festival
+              <!-- The Theatre in the Woods, West Horsley Place
+              Epsom Road, KT24 6AN
+              Pushkin
+              -->
+            </div>
+            <div class="aa-event__orchestra">
+              Orchestra and Chorus of Novaya Opera
+            </div>
+            <div class="aa-event__conductor">
+              Conductor:<strong> Jan Latham-Koenig</strong>
+            </div>
+            <div class="aa-event__description">
+              <p>
+                Composer: Konstantin Boyarsky
+              </p>
+            </div>
+          </li>
+          <li class="aa-event">
+            <div class="aa-event__date">
+              3 August 2018, 8pm
+            </div>
+            <div class="aa-event__where">
+              Ravenna, Alighieri Theatre
+            </div>
+            <div class="aa-event__conductor">
+              Conductor <strong>Riccardo Muti</strong>
+            </div>
+            <div class="aa-event__programme">
+              Programme: Macbeth, Giuseppe Verdi
+            </p>
+            <div class="aa-event__orchestra">
+              Luigi Cherubini Orchestra
+            </div>
+            <div class="aa-event__description">
+              <p>
+                Info and tickets: http://www.ravennafestival.org/events/
+              </p>
+            </div>
+          </li>
+          <li class="aa-event">
+            <div class="aa-event__date">
+              4 August 2018, 8pm
+            </div>
+            <div class="aa-event__where">
+              Ravenna, Alighieri Theatre
+            </div>
+            <div class="aa-event__orchestra">
+              Luigi Cherubini Orchestra
+            </div>
+            <div class="aa-event__conductor">
+              Conductors:<strong> Italian Opera Academy students</strong>
+            </div>
+            <div class="aa-event__programme">
+              Programme: Macbeth, Giuseppe Verdi
+            </div>
+            <div class="aa-event__description">
+              Info and tickets: http://www.ravennafestival.org/events
+            </div>
+          </li> #}
+        </ul>
+      </li>
+    </div>
+  </div>
+</section>
+
+<section id="media" class="aa-section aa-media aa-color-light">
   <div class="wrapper container-fluid">
     <div class="row">
       <div class="col-xs-12 col-tablet-10 col-tablet-offset-1">
@@ -66,7 +249,7 @@
   </div>
 </section>
 
-<section id="contacts" class="aa-section aa-contact aa-color-light">
+<section id="contacts" class="aa-section aa-contact">
     <div class="wrapper container-fluid">
         <div class="row">
           <div class="col-xs-12 col-tablet-4 col-tablet-offset-1">

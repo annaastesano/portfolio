@@ -18,7 +18,7 @@ $aa-font-weight-thin: 100;
 $aa-font-color-light: $aa-white;
 $aa-font-color-dark: $aa-bastille;
 
-$aa-font-size-default: 20px;
+$aa-font-size-default: 18px;
 $aa-font-line-height-default: base-unit(4);
 
 $aa-mobile-font-size-default: 16px;
@@ -89,7 +89,7 @@ $aa-paragraph-mobile-line-height: $aa-font-mobile-line-height-default;
 
 
 //Small Paragraph
-$aa-p-smaller-font-size:  $aa-font-size-default;
+$aa-p-smaller-font-size:  $aa-font-size-default - 2;
 $aa-p-smaller-line-height: $aa-font-line-height-default;
 $aa-p-smaller-font-weight: $aa-font-weight-regular;
 

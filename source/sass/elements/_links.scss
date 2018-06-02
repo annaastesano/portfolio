@@ -1,4 +1,10 @@
 a {
-  color: $aa-white;
+  color: $charleston-green;
   text-decoration: none;
+
+  .aa-color-light &,
+  &.aa-color-light {
+    color: $aa-white;
+
+  }
 }

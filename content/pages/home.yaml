@@ -1,3 +1,48 @@
 $title@: Welcome!
 $path: /{root}
 $view: /views/pages/home.html
+
+
+events:
+  - date: 06 June 2018
+    where: Trinity Laban Conservatoire of Music and Dance
+    orchestra: Final exam Postgraduate Advanced Diploma
+    programme: Haydn, Flagello, Boildieu, Debussy
+
+  - date: 09 June 2018, 1pm
+    where: St Alfege Church,  # 3 Greenwich Church St, London SE10 9BJ
+    orchestra: Lunchtime Concert
+    programme: Smetana, Pigovat, Salzedo
+
+  - date: 16 June 2018, 9pm
+    where: Ravenna, Palazzo Mauro de Andrè
+    conductor: Dennis Russell Davies
+    orchestra: Luigi Cherubini Orchestra
+    programme: Bernstein Symphony n.2, Glass Symphony n.11
+    more_info: Info and tickets <a href="http://www.ravennafestival.org/events/" target="_blank">http://www.ravennafestival.org/events/ </a>
+
+  - date: 11 July 2018, 6pm
+    where: Grange Park Opera Festival  # The Theatre in the Woods, West Horsley Place Epsom Road, KT24 6AN Pushkin
+    conductor: Jan Latham-Koenig
+    composer: Konstantin Boyarsky
+    orchestra: Orchestra and Chorus of Novaya Opera
+
+  - date: 12 July 2018, 6pm
+    where: Grange Park Opera Festival # The Theatre in the Woods, West Horsley Place Epsom Road, KT24 6AN Pushkin
+    conductor: Jan Latham-Koenig
+    composer: Konstantin Boyarsky
+    orchestra: Orchestra and Chorus of Novaya Opera
+
+  - date: 3 August 2018, 8pm
+    where: Ravenna, Alighieri Theatre
+    conductor: Riccardo Muti
+    orchestra: Luigi Cherubini Orchestra
+    programme: Macbeth, Giuseppe Verdi
+    more_info: Info and tickets <a href="http://www.ravennafestival.org/events/" target="_blank">http://www.ravennafestival.org/events/ </a>
+
+  - date: 4 August 2018, 8pm
+    where: Ravenna, Alighieri Theatre
+    conductor: Italian Opera Academy students
+    orchestra: Luigi Cherubini Orchestra
+    programme: Macbeth, Giuseppe Verdi
+    more_info: <a href="http://www.ravennafestival.org/events" target="_blank">http://www.ravennafestival.org/events </a>

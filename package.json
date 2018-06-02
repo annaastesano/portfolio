@@ -46,6 +46,7 @@
     "flexboxgrid-sass": "github:hugeinc/flexboxgrid-sass#14d347cfa2dc11f9fac26fe00a8679fcda2736ff"
   },
   "dependencies": {
+    "hamburgers": "^0.9.3",
     "smoothscroll": "^0.4.0"
   }
 }

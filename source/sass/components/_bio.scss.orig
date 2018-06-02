@@ -23,10 +23,15 @@
   }
 
   &__title {
+<<<<<<< Updated upstream
     border-bottom: 2px solid #a7342d;
+    margin-bottom: base-unit(3);
+=======
+    border-bottom: 2px solid $red;
+>>>>>>> Stashed changes
     font-family: 'Questrial', sans-serif;
     font-size: 20px;
-    margin-bottom: base-unit(3);
+    line-height: base-unit(5);
     text-transform: uppercase;
   }
 }
@@ -35,6 +40,10 @@
   background-color: $ice;
 
   &__title {
+<<<<<<< Updated upstream
+    border-bottom: 2px solid #a7342d;
+    margin-bottom: base-unit(3);
+=======
     border-bottom: 2px solid $red;
     font-family: 'Questrial', sans-serif;
     font-size: 20px;
@@ -89,7 +98,7 @@
 
   &__title {
     border-bottom: 2px solid $red;
-    margin-bottom: base-unit(3);
+>>>>>>> Stashed changes
     font-family: 'Questrial', sans-serif;
     font-size: 20px;
     line-height: base-unit(5);
@@ -144,8 +153,12 @@
   background-color: $ice;
 
   &__title {
-    border-bottom: 2px solid $red;
+<<<<<<< Updated upstream
+    border-bottom: 2px solid #a7342d;
     margin-bottom: base-unit(3);
+=======
+    border-bottom: 2px solid $red;
+>>>>>>> Stashed changes
     font-family: 'Questrial', sans-serif;
     font-size: 20px;
     line-height: base-unit(5);
