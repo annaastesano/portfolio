@@ -1,3 +1,9 @@
 .aa-u-display-none {
   display: none;
 }
+
+.aa-u-display-none-mobile {
+  @include mq($until: tablet) {
+    display: none;
+  }
+}
