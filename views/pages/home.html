@@ -44,26 +44,54 @@
         {% for event in doc.events %}
           <li class="aa-event">
             <div class="aa-event__date">
-              {{event.date}}
+              {{event.date_1}}
             </div>
-            <div class="aa-event__where">
-              {{event.where}}
-            </div>
-            {% if event.conductor %}
-              <div class="aa-event__conductor">
-                Conductor: <strong>{{event.conductor}}</strong>
+            <div class="aa-event__content">
+              <div class="aa-event__content-header">
+                <span class="aa-event__title">
+                    {{event.title}}
+                </span>
+                {% if event.orchestra %}
+                <span class="aa-event__orchestra">
+                    {{event.orchestra}}
+                </span>
+                {% endif %}
               </div>
-            {% endif %}
-            <div class="aa-event__orchestra">
-              {{event.orchestra}}
-            </div>
-            <div class="aa-event__programme">
-              Programme: {{event.orchestra}}
-            </p>
-            <div class="aa-event__description">
-              <p>
-                {{event.more_info|safe}}
+              <div class="aa-event__content-sub-header">
+                {% if event.hour %}
+                <span class="aa-event__hour">
+                    {{event.hour}},
+                </span>
+                {% endif %}
+                <span class="aa-event__where">
+                  {{event.where}}
+                </span>
+                {% if event.maps_link %}
+                <a href="{{event.maps_link}}" target="_blank">
+                  <img src="/static/images/icons/map.svg" alt="" class="link__icon">
+                </a>
+                {% endif %}
+              </div>
+
+              <!-- <div class="aa-event__where">
+                {{event.where}}
+              </div>
+              {% if event.conductor %}
+                <div class="aa-event__conductor">
+                  Conductor: <strong>{{event.conductor}}</strong>
+                </div>
+              {% endif %}
+              <div class="aa-event__orchestra">
+                {{event.orchestra}}
+              </div>
+              {% if event.programme %}
+              <div class="aa-event__programme">
+                Programme: {{event.programme}}
               </p>
+              {% endif %}
+              <div class="aa-event__description">
+                  {{event.more_info|safe}}
+              </div> -->
             </div>
           </li>
         {% endfor %}
@@ -125,8 +153,8 @@
                 </a>
               </p>
               <p>
-                <a href="mailto:annarpa93@gmail.com">
-                  <img src="/static/images/icons/mail.svg" alt="" class="link__icon">
+                <a href="/static/images/press-kit.zip">
+                  <img src="/static/images/icons/download.svg" alt="" class="link__icon">
                   Press Kit
                 </a>
               </p>

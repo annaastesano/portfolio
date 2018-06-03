@@ -58,12 +58,15 @@
     padding: 0;
     text-transform: uppercase;
 
+    @include mq($until: mobile) {
+      justify-content: space-between;
+    }
+
     @include mq($until: tablet) {
       padding-top: base-unit(2);
     }
 
     li {
-      margin-right: 18px;
 
       @include mq($from: mobile) {
         margin-right: 50px;

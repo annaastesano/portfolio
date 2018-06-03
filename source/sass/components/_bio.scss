@@ -39,7 +39,7 @@
 }
 
 .aa-events {
-  background-color: $ice;
+  background-color: $aa-white;
 
   &__title {
     border-bottom: 2px solid $red;
@@ -53,29 +53,72 @@
     list-style: none;
     padding: 0;
     margin: 0;
-    display: flex;
+    // display: flex;
     flex-wrap: wrap;
     margin-top: base-unit(4);
-
-    .aa-event {
-      @include mq($from: tablet) {
-        max-width: 50%;
-        flex-basis: 50%;
-      }
-    }
   }
 }
 
 .aa-event {
-  @extend .aa-p-smaller;
-  padding-bottom: base-unit(3);
-  padding-right: 60px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 30px;
+  align-items: center;
+  border: 2px solid white;
+  border-radius: 3px;
+  text-align: center;
+  margin: base-unit(3) 0;
+
+  @include mq($from: tablet) {
+    margin: base-unit(3);
+    flex-direction: row;
+    text-align: left;
+  }
 
   &__date {
-    @extend .aa-p;
     padding-bottom: 0;
     margin-bottom: 0;
     font-size: 22px;
+    margin-bottom: base-unit(3);
+
+    @include mq($from: tablet) {
+      margin-bottom: 0;
+    }
+
+  }
+
+  &__title {
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 500;
+  }
+
+  &__hour {
+    font-weight: bold;
+  }
+
+  &__content-header {
+    @include mq($until: tablet) {
+      margin-bottom: base-unit(2);
+    }
+  }
+
+  &__content-sub-header {
+    color: $red;
+  }
+
+  &__orchestra::before  {
+    @include mq($from: tablet) {
+      content: ' | ';
+    }
+  }
+
+  &__content {
+    font-size: 16px;
+
+    @include mq($from: tablet) {
+      margin-left: 40px;
+    }
   }
 
 
@@ -150,7 +193,7 @@
 
 
 .aa-contact {
-  background-color: $ice;
+  background-color: $aa-white;
 
   &__title {
     border-bottom: 2px solid $red;
@@ -174,7 +217,7 @@
 
   input,
   textarea {
-    // background-color: $ice;
+    // background-color: $aa-white;
     border: 0;
     margin-top: base-unit(2);
     color: $charleston-green;
@@ -184,7 +227,7 @@
   button {
     background-color: $charleston-green;
     border: 0;
-    color: $ice;
+    color: $aa-white;
     float: right;
     margin-top: base-unit(5);
     padding: base-unit(1) 35px;
