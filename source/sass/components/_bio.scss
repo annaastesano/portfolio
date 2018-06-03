@@ -118,9 +118,15 @@
     top: 8px;
   }
 
-  &__orchestra::before  {
-    @include mq($from: tablet) {
-      content: ' | ';
+  &__orchestra  {
+    @include mq($until: tablet) {
+      display: block;
+    }
+
+    &::before {
+      @include mq($from: tablet) {
+        content: ' | ';
+      }
     }
   }
 
@@ -169,6 +175,8 @@
     text-transform: uppercase;
     color: $red;
     bottom: base-unit(1);
+    padding: 0;
+    margin-right: -3px;
 
     display: none;
 

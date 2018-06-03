@@ -12,13 +12,20 @@
 
   &__harpist {
     align-items: flex-end;
-    color: $aa-white;
+    color: #daddd8;
+    display: -ms-flexbox;
     display: flex;
-    font-size: 85px;
+    font-size: 25px;
     height: 100%;
-    letter-spacing: .47em;
-    line-height: 85px;
-    padding-bottom: 100px;
+    padding-bottom: 40px;
+    letter-spacing: 0.47em;
+    color: #daddd8;
+    font-family: 'Questrial', sans-serif;
+    text-transform: uppercase;
+
+    @include mq($from: tablet) {
+      letter-spacing: 1.47em;
+    }
 
     span {
       display: block;
