@@ -4,10 +4,15 @@ a,
   text-decoration: none;
 
   &__icon {
-    height: base-unit(4);
-    width: base-unit(4);
+    height: base-unit(3);
+    width: base-unit(3);
+    margin-right: base-unit(1);
     vertical-align: middle;
-    padding-right: base-unit(1);
+
+    &--small {
+      height: base-unit(2);
+      width: base-unit(2);
+    }
   }
 
   .aa-color-light &,

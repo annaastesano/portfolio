@@ -67,8 +67,8 @@
                   {{event.where}}
                 </span>
                 {% if event.maps_link %}
-                <a href="{{event.maps_link}}" target="_blank">
-                  <img src="/static/images/icons/map.svg" alt="" class="link__icon">
+                <a href="{{event.maps_link}}" target="_blank" class="aa-event__maps-link">
+                  <img src="/static/images/icons/map.svg" title="See on google maps" class="link__icon link__icon--map">
                 </a>
                 {% endif %}
               </div>
@@ -161,7 +161,7 @@
 
             </div>
             <form class="col-xs-12 col-tablet-5 col-tablet-offset-1"
-                action="https://formspree.io/killer.paolo@gmail.com"
+                action="https://formspree.io/annarpa93@gmail.com"
                 method="POST">
               <label for="name">Your name:</label>
               <input type="text" id="name" name="name">
