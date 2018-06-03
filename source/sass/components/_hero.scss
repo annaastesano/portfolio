@@ -1,8 +1,4 @@
 .aa-hero {
-  // background-image:
-  //   radial-gradient( rgba(45, 43, 41, .1), rgba(#2d2b29, .9) 80%),
-  //   url(../images/hero2.jpg);
-
   @include bg-image-full-width('../images/hero', 'jpg', radial-gradient( rgba(45, 43, 41, .1), rgba(#2d2b29, .9) 80%));
   background-repeat: no-repeat;
   background-size: cover;

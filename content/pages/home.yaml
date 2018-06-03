@@ -27,7 +27,10 @@ events:
   - date: 16 June 2018, 9pm
     date_1: 16/06/2018
     hour: 9pm
-    maps_link:
+    maps_link: https://goo.gl/maps/h2s5phndiiP2
+
+    title: Russell Davies - Bernstein & Glass
+
     where: Ravenna, Palazzo Mauro de Andrè
     conductor: Dennis Russell Davies
     orchestra: Luigi Cherubini Orchestra
@@ -61,7 +64,10 @@ events:
   - date: 3 August 2018, 8pm
     date_1: 3/08/2018
     hour: 8pm
-    maps_link:
+    maps_link: https://goo.gl/maps/SkvPGfe9wVE2
+
+    title: Riccardo Muti - Macbeth
+
     where: Ravenna, Alighieri Theatre
     conductor: Riccardo Muti
     orchestra: Luigi Cherubini Orchestra
@@ -71,9 +77,12 @@ events:
   - date: 4/08/2018, 8pm
     date_1: 4/08/2018
     hour: 8pm
-    maps_link:
+    maps_link: https://goo.gl/maps/SkvPGfe9wVE2
+
+    title: Macbeth, Giuseppe Verdi
+
+    orchestra: Luigi Cherubini Orchestra
     where: Ravenna, Alighieri Theatre
     conductor: Italian Opera Academy students
-    orchestra: Luigi Cherubini Orchestra
     programme: Macbeth, Giuseppe Verdi
     more_info: <a href="http://www.ravennafestival.org/events" target="_blank">http://www.ravennafestival.org/events </a>

@@ -1,5 +1,6 @@
 import {log} from './logger';
 import {init as initHeader} from './components/header';
+import {init as initEvents} from './components/events';
 import smoothScroll from 'smoothscroll';
 
 log('Hello World');
@@ -18,3 +19,5 @@ const initSmoothScrollLinks = () => {
 
 initHeader();
 initSmoothScrollLinks();
+initSmoothScrollLinks();
+initEvents();
