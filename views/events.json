@@ -1,0 +1,72 @@
+[
+  {
+    "date": "06/06/2018",
+    "hour": "13pm",
+    "maps_link": "https://goo.gl/maps/wMuoBHVmYw22",
+    "title": "Final exam Postgraduate Advanced Diploma",
+    "where": "Trinity Laban Conservatoire of Music and Dance",
+    "orchestra": null,
+    "programme": "Haydn, Flagello, Boildieu, Debussy"
+  },
+  {
+    "date": "09/06/2018",
+    "hour": "1pm",
+    "maps_link": "https://goo.gl/maps/MLyhbAdGxF22",
+    "title": "Lunchtime Concert",
+    "where": "St Alfege Church",
+    "programme": "Smetana, Pigovat, Salzedo"
+  },
+  {
+    "date": "16/06/2018",
+    "hour": "9pm",
+    "maps_link": "https://goo.gl/maps/h2s5phndiiP2",
+    "title": "Russell Davies - Bernstein & Glass",
+    "where": "Ravenna, Palazzo Mauro de Andrè",
+    "conductor": "Dennis Russell Davies",
+    "orchestra": "Luigi Cherubini Orchestra",
+    "programme": "Bernstein Symphony n.2, Glass Symphony n.11",
+    "more_info": "Info and tickets <a href=\"http://www.ravennafestival.org/events/\" target=\"_blank\">http://www.ravennafestival.org/events/ </a>"
+  },
+  {
+    "date": "11/07/2018",
+    "hour": "6pm",
+    "maps_link": "https://goo.gl/maps/qtLFSkTHq182",
+    "title": "Grange Park Opera Festival",
+    "where": "The Theatre in the Woods",
+    "conductor": "Jan Latham-Koenig",
+    "composer": "Konstantin Boyarsky",
+    "orchestra": "Orchestra and Chorus of Novaya Opera"
+  },
+  {
+    "date": "12/07/2018",
+    "hour": "6pm",
+    "maps_link": "https://goo.gl/maps/qtLFSkTHq182",
+    "title": "Grange Park Opera Festival",
+    "where": "The Theatre in the Woods",
+    "conductor": "Jan Latham-Koenig",
+    "composer": "Konstantin Boyarsky",
+    "orchestra": "Orchestra and Chorus of Novaya Opera"
+  },
+  {
+    "date": "3/08/2018",
+    "hour": "8pm",
+    "maps_link": "https://goo.gl/maps/SkvPGfe9wVE2",
+    "title": "Riccardo Muti - Macbeth",
+    "where": "Ravenna, Alighieri Theatre",
+    "conductor": "Riccardo Muti",
+    "orchestra": "Luigi Cherubini Orchestra",
+    "programme": "Macbeth, Giuseppe Verdi",
+    "more_info": "Info and tickets <a href=\"http://www.ravennafestival.org/events/\" target=\"_blank\">http://www.ravennafestival.org/events/ </a>"
+  },
+  {
+    "date": "4/08/2018",
+    "hour": "8pm",
+    "maps_link": "https://goo.gl/maps/SkvPGfe9wVE2",
+    "title": "Macbeth, Giuseppe Verdi",
+    "orchestra": "Luigi Cherubini Orchestra",
+    "where": "Ravenna, Alighieri Theatre",
+    "conductor": "Italian Opera Academy students",
+    "programme": "Macbeth, Giuseppe Verdi",
+    "more_info": "<a href=\"http://www.ravennafestival.org/events\" target=\"_blank\">http://www.ravennafestival.org/events </a>"
+  }
+]

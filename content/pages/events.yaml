@@ -1,0 +1,3 @@
+$title@: events
+$path: /{root}/events.json
+$view: /views/events.json

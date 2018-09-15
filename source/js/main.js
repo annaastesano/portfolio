@@ -2,6 +2,7 @@ import {log} from './logger';
 import {init as initHeader} from './components/header';
 import {init as initEvents} from './components/events';
 import smoothScroll from 'smoothscroll';
+import './components/events/events-controller';
 
 log('Hello World');
 const initSmoothScrollLinks = () => {
