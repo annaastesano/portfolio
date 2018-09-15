@@ -20,4 +20,29 @@ a,
     color: $aa-white;
 
   }
+
+
+
+  &:hover {
+    .link__animation-text {
+      transform: translateX(0);
+    }
+  }
+
+  &__animation-wrp {
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+
+    &:hover {
+      .link__animation-text {
+        transform: translateX(0);
+      }
+    }
+  }
+
+  .link--text-animated &__animation-text {
+    transition: .25s transform;
+    transform: translateX(-100%);
+  }
 }
