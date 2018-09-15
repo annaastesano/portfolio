@@ -42,7 +42,7 @@ const eventsTemplate = `
         {{/if}}
         {{#if more_info }}
         <div class="aa-event__description">
-            {{more_info}}
+            {{{more_info}}}
         </div>
         {{/if}}
         </div>
