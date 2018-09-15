@@ -49,6 +49,6 @@
     "axios": "^0.18.0",
     "hamburgers": "^0.9.3",
     "handlebars": "^4.0.12",
-    "smoothscroll": "^0.4.0"
+    "smooth-scroll": "^14.2.1",
   }
 }
