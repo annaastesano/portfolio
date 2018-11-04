@@ -2,7 +2,7 @@ const eventsTemplate = `
 {{#each events}}
     <li class="aa-event" data-js-event>
     <div class="aa-event__date">
-        {{date_1}}
+        {{date}}
     </div>
     <div class="aa-event__content-wrp">
         <div class="aa-event__content">
