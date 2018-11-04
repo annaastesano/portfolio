@@ -68,5 +68,59 @@
     "conductor": "Italian Opera Academy students",
     "programme": "Macbeth, Giuseppe Verdi",
     "more_info": "<a href=\"http://www.ravennafestival.org/events\" target=\"_blank\">http://www.ravennafestival.org/events </a>"
-  }
+  },
+  {
+    "date": "14-26/10/2018",
+    "maps_link": "https://goo.gl/maps/dqjr7aZNDBA2",
+    "title": "XX International Harp Contest",
+    "where": "Old City of Acre, Israel",
+    "more_info": "<a href=\"http://www.harpcontest-israel.org.il/\" target=\"_blank\">http://www.harpcontest-israel.org.il </a>"
+  },
+  {
+    "date": "02/11/2018",
+    "hour": "1.05 pm",
+    "maps_link": "https://goo.gl/maps/sJg53sjnH922",
+    "title": "Chamber music Recital",
+    "orchestra": "Harp: Anna Astesano, Flute: Emma Harding, Cello: Thibault Blanchard",
+    "where": "Old Royal Naval Chapel, Greenwich",
+    "programme": "Piazzolla, Haydn, Boulanger, Damase",
+    "more_info": "<a href=\"https://www.trinitylaban.ac.uk/whats-on/emma-harding-flute-thibault-blanchard-cello-anna-asesano-harp\" target=\"_blank\">http://https://www.trinitylaban.ac.uk/whats-on/emma-harding-flute-thibault-blanchard-cello-anna-asesano-harp </a>"
+  },
+ {
+    "date": "07/11/2018",
+    "hour": "6 pm",
+    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
+    "title": "Free pre-concert performance",
+    "orchestra": "LPO Future Foyle First Programme",
+    "where": "Royal Festival Hall, London",
+    "programme": "Chamber programme inspired by the themes of the LPO's season",
+    "more_info": "<a href=\"https://www.lpo.org.uk/whats-on-and-tickets/5255-free-preconcert-performance-foyle-future-firsts.html\" target=\"_blank\">What's on and tickets</a>"  
+  },
+  {
+    "date": "08/11/2018",
+    "maps_link": "https://goo.gl/maps/PyqpEKyMb882",
+    "title": "Lyons Club Torino Award",
+    "where": "Turin (IT)",
+    "more_info": "Private event"
+  },
+  {
+    "date": "05/04/2019",
+    "hour": "6 pm",
+    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
+    "title": "Free pre-concert performance",
+    "orchestra": "LPO Future Foyle First Programme",
+    "where": "Royal Festival Hall, London",
+    "programme": "The Foyle Future Firsts bring their youthful energy to a celebration of British chamber music, as part of Isle of Noises",
+    "more_info": "<a href=\"https://www.lpo.org.uk/whats-on-and-tickets/5261-free-preconcert-performance-foyle-future-firsts.html\" target=\"_blank\">What's on and tickets</a>"  
+  }, 
+  {
+    "date": "27/04/2019",
+    "hour": "6 pm",
+    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
+    "title": "Free pre-concert performance",
+    "orchestra": "LPO Future Foyle First Programme",
+    "where": "Royal Festival Hall, London",
+    "programme": "This year's LPO Junior Artists - perform British music alongside LPO members and Junior Artist alumni.",
+    "more_info": "<a href=\"http://www.lpo.org.uk/whats-on-and-tickets/5263-free-preconcert-performance-lpo-junior-artists.html\" target=\"_blank\">What's on and tickets</a>"  
+  } 
 ]
