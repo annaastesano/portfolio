@@ -3,4 +3,7 @@
   <url>
     <loc>http://localhost/</loc>
   </url>
+  <url>
+    <loc>http://localhost/events.json</loc>
+  </url>
 </urlset>
