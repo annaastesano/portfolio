@@ -84,15 +84,9 @@ This will run the relevant `gulp` tasks to build the static files as well as `gr
 Run this command to deploy the site:
 
 ```
-source ./scripts/deploy.sh
+gulp build
+grow build --out_dir=doc
 ```
-
-Run with the following flag to skip user input:
-
-```
-source ./scripts/deploy.sh --no-input
-```
-
 
 
 ## Updating Grow and other dependencies

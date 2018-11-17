@@ -17,7 +17,7 @@ module.exports = function js(gulp) {
       debug: true,
     })
       .transform('babelify');
-
+    console.log(dev)
     return b.bundle()
       .on('error', onError)
       .pipe(source('site.min.js'))
