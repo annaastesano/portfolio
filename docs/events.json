@@ -3,7 +3,7 @@
     "date": "06/06/2018",
     "hour": "13pm",
     "maps_link": "https://goo.gl/maps/wMuoBHVmYw22",
-    "title": "Final exam Postgraduate Advanced Diploma 1",
+    "title": "Final exam Postgraduate Advanced Diploma",
     "where": "Trinity Laban Conservatoire of Music and Dance",
     "orchestra": null,
     "programme": "Haydn, Flagello, Boildieu, Debussy"
@@ -104,6 +104,34 @@
     "more_info": "Private event"
   },
   {
+    "date": "24/11/2018",
+    "hour": "1pm",
+    "maps_link": "https://www.google.com/maps/place/Brighton/@50.8374669,-0.1412091,13z/data=!3m1!4b1!4m5!3m4!1s0x48758509f6294167:0x9cc6af7a727d0ef9!8m2!3d50.82253!4d-0.137163",
+    "title": "LPO Junior Artists Overture Day",
+    "orchestra": "LPO Future Foyle First Programme",
+    "where": "Brighton",
+  },
+  {
+    "date": "05/12/2018",
+    "hour": "5.30 pm",
+    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
+    "title": "Pre-concert Christmas Party",
+    "orchestra": "LPO Future Foyle First Programme",
+    "where": "Royal Festival Hall, London",
+    "programme": "Flute and harp duo with Anna Kondrashina",
+    "more_info": "<a href=\"https://www.lpo.org.uk/whats-on-and-tickets/5289-supporters-christmas-dinner.html\" target=\"_blank\">What's on and tickets</a>"  
+  }, 
+  {
+    "date": "06/12/2018",
+    "hour": "8 pm",
+    "maps_link": "https://goo.gl/maps/Txd1qB1RM5r",
+    "title": "Britten's Ceremony of Carols",
+    "orchestra": "City Academy Chamber Choir, Rachel Maby",
+    "where": "Swiss Church, Covent Garden",
+    "programme": "Britten's Ceremont of Carols, Carols by Jonathan Dove, Cecilia McDowell, Alan Bullard and Tavener",
+    "more_info": "<a href=\"https://www.city-academy.com/chamber-winter-showcase.html\" target=\"_blank\">What's on and tickets</a>"  
+  },
+  {
     "date": "05/04/2019",
     "hour": "6 pm",
     "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
@@ -122,5 +150,13 @@
     "where": "Royal Festival Hall, London",
     "programme": "This year's LPO Junior Artists - perform British music alongside LPO members and Junior Artist alumni.",
     "more_info": "<a href=\"http://www.lpo.org.uk/whats-on-and-tickets/5263-free-preconcert-performance-lpo-junior-artists.html\" target=\"_blank\">What's on and tickets</a>"  
+  }, 
+  {
+    "date": "14/05/2019",
+    "hour": "1 pm",
+    "maps_link": "https://goo.gl/maps/mV63vr69fGy",
+    "title": "John Marson's Price for Best Harp Performer",
+    "orchestra": "Anna Astesano e Michela Zanoni",
+    "where": "Saint-Martin-in-the-Fields Church",
   } 
 ]
