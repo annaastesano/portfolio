@@ -19,3 +19,13 @@ static_dirs:
 
 sitemap:
   enabled: true
+
+
+deployments:
+  default:
+    destination: local
+    out_dir: docs/
+    env:
+      name: prod
+      host: anna.astesano.com
+      scheme: https
