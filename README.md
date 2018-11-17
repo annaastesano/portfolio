@@ -83,10 +83,13 @@ This will run the relevant `gulp` tasks to build the static files as well as `gr
 
 Run this command to deploy the site:
 
+On dev brach
 ```
 gulp build
-grow build --out_dir=doc
+grow deploy
 ```
+
+than merge to master and push.
 
 
 ## Updating Grow and other dependencies
