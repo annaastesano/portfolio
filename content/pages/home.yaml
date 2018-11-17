@@ -1,3 +1,4 @@
-$title@: Welcome!
+$title@: Anna Astesano - Harpist
+$description:
 $path: /{root}
 $view: /views/pages/home.html
