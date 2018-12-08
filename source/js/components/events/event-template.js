@@ -27,7 +27,7 @@ const eventTemplate = `
             {{formatTime date}},
         </span>
         {{/if}}
-        <span class="aa-event__where">
+        <span class="aa-event__where" itemprop="location">
         {{where}}
         </span>
     </div>
