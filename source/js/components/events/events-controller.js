@@ -16,7 +16,7 @@ handlebars.registerHelper('formatDate', function(dateString) {
 
 handlebars.registerHelper('formatTime', function(dateString) {
     return new handlebars.SafeString(
-        new Date(dateString).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})
+        new Date(dateString).toLocaleTimeString('en-US', {hour: '2-digit', minute: '2-digit', hour12: true})
     );
 });
 
