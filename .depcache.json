@@ -1,4 +1,10 @@
 {
+  "/content/pages/duo.yaml": [
+    "/dist/css/site.min.css",
+    "/dist/js/site.min.js",
+    "/source/images/favicon.png",
+    "/source/images/hero-1000.jpg"
+  ],
   "/content/pages/home.yaml": [
     "/dist/css/site.min.css",
     "/dist/js/site.min.js",

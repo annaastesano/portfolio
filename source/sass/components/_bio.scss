@@ -229,19 +229,20 @@
 
   }
 
-  &__media {
-    margin-bottom: base-unit(2);
-    opacity: .75;
-    width: 100%;
+}
 
-    @include mq($from: tablet) {
-      margin-right: 3%;
-      width: 48%;
-    }
+.aa-media__media {
+  margin-bottom: base-unit(2);
+  opacity: .75;
+  width: 100%;
 
-    &:last-of-type {
-      margin-right: 0;
-    }
+  @include mq($from: tablet) {
+    margin-right: 3%;
+    width: 48%;
+  }
+
+  &:last-of-type {
+    margin-right: 0;
   }
 
   .video-container {

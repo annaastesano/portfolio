@@ -1,0 +1,101 @@
+{% extends '/views/base.html' %}
+{% block header %}
+{% endblock %}
+
+{% block body_attributes %}
+class="duo"
+{% endblock %}
+
+{% block body %}
+<div class="duo-hero">
+  <div class="duo-hero__top">
+    <div class="header">
+    {{doc.title}}
+    </div>
+    <ul class="menu">
+      {% for item in doc.menu %}
+        <li>
+          <a href="{{item.link}}"> {{item.text}}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <section class="wrapper container-fluid aa-color-light">
+      <div class="row">
+        <div class="col-xs-12 col-tablet-8 col-tablet-offset-2">
+          <div class="duo-hero__intro">
+            {{doc.introduction}}
+          </div>
+        </div>
+      </div>
+  </section>
+</div>
+<section id="repertoire" class="aa-section aa-duo-repertoire">
+  <section class="wrapper container-fluid aa-color-light">
+    <div class="row">
+      <div class="col-xs-12 col-tablet-6 col-tablet-offset-3">
+        <h1 class="beta aa-events__title">
+          {{doc.repertoire_title}}
+        </h1>
+        <ul class >
+          {% for i in doc.repertoire %}
+          <li>
+            {{i}}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </section>
+</section>
+<section id="media" class="aa-section aa-duo-medias">
+  <section class="wrapper container-fluid aa-color-light">
+    <div class="row">
+      <div class="col-xs-12 col-tablet-6 col-tablet-offset-3">
+        <h1 class="beta aa-events__title">
+          {{doc.media_title}}
+        </h1>
+        <ul class >
+          {% for i in doc.medias %}
+          <li>
+            <div class="aa-media__media">
+              <div class="video-container">
+                <iframe width="420" height="236" src="{{i}}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+              </div>
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </section>
+</section>
+
+<section id="contact" class="aa-section aa-duo-contact">
+  <section class="wrapper container-fluid aa-color-light">
+    <div class="row">
+      <div class="col-xs-12 col-tablet-6 col-tablet-offset-3">
+        <h1 class="beta aa-events__title">
+          {{doc.contact_title}}
+        </h1>
+        <div>
+        {{doc.contacts_header}}
+        </div>
+        <a href="mailto:{{doc.contacts_email}}"> {{doc.contacts_email}} </a>
+        <a href="{{doc.contacts_site}}"> {{doc.contacts_site}} </a>
+        <a href="tel:{{doc.contacts_number}}">{{doc.contacts_number}}</a>
+        </ul>
+      </div>
+    </div>
+    <div class="aa-duo-contact__personal-sites">
+      <a class="aa-duo-contact_teo-link">
+        {{doc.teo_site}}
+      </a>
+      <a class="aa-duo-contact_anna-link">
+        {{doc.anna_site}}
+      </a>
+    </div>
+  </section>
+
+</section>
+{% endblock %}
