@@ -1,0 +1,55 @@
+$title@: Yugen Duet
+$view: /views/pages/duo.html
+
+description@: Captivating viola and harp duo.
+introduction@: "“La Beauté n'est pas que dans le réel, mais plutôt dans l'inconnu” . Le dramaturge Zeami cherche à décrire l'idée de Yugen avec l'image des “faibles ombres de bambou sur le bamboo même”. D'après leur première rencontre au Conservatoire National Supérieur de Musique et Danse de Lyon en 2013, Anna Astesano et Théo Delianne n'ont pas arrêté de jouer ensemble. Harpe et alto se mêlent dans un seul son chaleureux, en se diversifiant des ensembles de musique de chambre plus classiques. Leur recherche continue de nouveaux répertoires et transcriptions les décrit comme un duo moderne et dynamique, doué d'une profonde connexion et interprétation musicale. "
+
+menu:
+  - text@: Répertoire
+    link: "#repertoire"
+  - text@: Médias
+    link: "#media"
+  - text@: Contactes
+    link: "#contact"
+
+
+repertoire_title@: Répertoire
+
+repertoire@:
+  - Albinoni Tommaso (1671-1751), Adagio en sol mineur
+  - Bach Jean-Sébastien (1685-1750), Largo du Concerto en ré mineur BWV 1043
+  - Bachofen Henrik (1768-1830), Concertante Op. 7/8 pour harpe et alto
+  - Bax Arnold (1883-1953), Fantasy Sonata pour alto et harpe (1927)
+  - Debussy Claude (1862-1918), Rêverie (1890)
+  - Fauré Gabriel (1845-1924), Berceuse op.16 (1878-9)
+  - Glazounov Alexandre (1865-1936), Elégie op.44 (1865-1936)
+  - Kurek Michael (né en 1955), Sonata pour alto et harpe
+  - Marais Marin (1656-1728), Cinq Danses anciennes françaises
+  - Marcello Alessandro (1684-1747), Adagio du Concerto en ré mineur (1716)
+  - Massenet Jules (1842-1912), Méditation de Thaïs
+  - Piazzolla Astor (1921-1992), Bordel 1900 et Café 1930
+  - Saint-Saëns Camille (1835-1921), Romance en Réb Majeur (1871)
+  - Sampietro Carlo (XIXème siècle), Duo pour harpe et alto
+  - Satie Eric (1866-1925), Trois Gymnopédies
+  - "Stanley Charles Jones (1715), Sonate pour alto: Adagio, Poco Allegro, Gigue op.4"
+
+
+
+concert_proposal:
+  text@: Proposition de concert
+
+media_title@: Médias
+
+medias:
+  - https://www.youtube.com/embed/RzFUdmUUeyw?rel=0
+  - https://www.youtube.com/embed/RzFUdmUUeyw?rel=0
+
+
+contact_title@: contactes
+
+contacts_header: Con Anima Agency
+contacts_email: contact@con-anima-agency.com
+contacts_site: www.con-anima-agency.com
+contacts_number: 00 33 6 03 49 69 50
+teo_site: www.theodelianneviola.com
+anna_site: www.anna.astesano.com

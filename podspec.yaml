@@ -9,7 +9,11 @@ meta:
   google_analytics_id: ""
 
 localization:
-  default_locale: en_GB
+  root_path: /{locale}/
+  default_locale: en
+  locales:
+    - fr
+    - it
 
 static_dirs:
   - static_dir: /dist/

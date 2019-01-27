@@ -12,7 +12,7 @@
       <ul class="aa-header__menu">
         <li>
           <a href="#bio">
-            Bio<span class="aa-u-display-none-mobile">graphy</span>
+            {{_(doc.header_bio)}}
           </a>
         </li>
         <li>
@@ -94,7 +94,7 @@
           {{_(doc.description_p1)}}
         </p>
         <p>
-          {{_(doc.description_p1)}}
+          {{_(doc.description_p2)}}
         </p>
       </div>
       <div class="col-xs-12 col-tablet-4 col-tablet-offset-1">
@@ -185,11 +185,11 @@
             <form class="col-xs-12 col-tablet-5 col-tablet-offset-1"
                 action="https://formspree.io/annarpa93@gmail.com"
                 method="POST">
-              <label for="name">Your name:</label>
+              <label for="name">{{_(doc.your_name)}}:</label>
               <input type="text" id="name" name="name">
-              <label for="email">Your email address:</label>
+              <label for="email">{{_(doc.your_mail)}}:</label>
               <input type="email" id="email" name="_replyto">
-              <label for="message">Message:</label>
+              <label for="message">{{_(doc.your_message)}}:</label>
               <input type="text" name="_gotcha" style="display:none">
               <input type="hidden" name="_subject" value="Message via http://annaastesano.com">
               <textarea id="message" name="message" rows="10" required></textarea>

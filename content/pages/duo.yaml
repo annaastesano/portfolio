@@ -1,24 +1,22 @@
 $title@: Yugen Duet
-$path: /{root}/duo-yugen
+$path: /yugen-duet
 $view: /views/pages/duo.html
 
-description: Captivating viola and harp duo.
-introduction: "<<Beauty is not just about the seen, but the unseen. The playwright Zeami tries to describe the concept of Yugen with the image of “subtle shadows of bamboo on bamboo”>>.
-Since their first meeting at the Conservatoire National Supérieur de Musique et Danse in Lyon in 2013, Anna Astesano and Theo Delianne have not stopped playing together.
-Harp and viola blend together into a unique warm sound, wandering away from the more classical chamber music ensembles. Their continue search for new repertoire and transcriptions, depict them as a modern and dynamic duo, gifted with an intense musical connection and understanding."
+description@: Captivating viola and harp duo.
+introduction@: "<<Beauty is not just about the seen, but the unseen. The playwright Zeami tries to describe the concept of Yugen with the image of “subtle shadows of bamboo on bamboo”>>. Since their first meeting at the Conservatoire National Supérieur de Musique et Danse in Lyon in 2013, Anna Astesano and Theo Delianne have not stopped playing together. Harp and viola blend together into a unique warm sound, wandering away from the more classical chamber music ensembles. Their continue search for new repertoire and transcriptions, depict them as a modern and dynamic duo, gifted with an intense musical connection and understanding."
 
 menu:
-  - text: Repertoire
+  - text@: Repertoire
     link: "#repertoire"
-  - text: Media
+  - text@: Media
     link: "#media"
-  - text: Contact
+  - text@: Contact
     link: "#contact"
 
 
-repertoire_title: Repertoire
+repertoire_title@: Repertoire
 
-repertoire:
+repertoire@:
   - Albinoni Tommaso (1671-1751), Adagio in G minor
   - Bach Johann Sebastian (1685-1750), Largo from the Concerto in D minor BWV 1043 n2
   - Bachofen Henrik (1768-1830), Concertante Op. 7/8 for Harp and Viola
@@ -38,21 +36,21 @@ repertoire:
 
 
 concert_proposal:
-  text: Concert proposal
+  text@: Concert proposal
   link: /source/images/duo/concert_proposal_en.pdf
 
-media_title: Media
+media_title@: Media
 
 medias:
   - https://www.youtube.com/embed/RzFUdmUUeyw?rel=0
   - https://www.youtube.com/embed/RzFUdmUUeyw?rel=0
 
 
-contact_title: contact
+contact_title@: contact
 
 contacts_header: Con Anima Agency
 contacts_email: contact@con-anima-agency.com
 contacts_site: www.con-anima-agency.com
 contacts_number: 00 33 6 03 49 69 50
 teo_site: www.theodelianneviola.com
-anna_site: www.anna.astesano.com
+anna_site: anna.astesano.com
