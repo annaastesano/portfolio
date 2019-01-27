@@ -15,8 +15,8 @@
     left: 0;
     opacity: 0.4;
     position: fixed;
-    width: 50%;
     top: 0;
+    width: 50%;
     z-index: -1;
   }
 
@@ -41,19 +41,20 @@
 
 
   .header {
-    font-family: 'Questrial', sans-serif;
-    text-align: center;
-    font-size: 65px;
     color: #daddd8;
-    margin-top: 50px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 65px;
+    line-height: 0.6;
     letter-spacing: 32px;
+    margin-top: 50px;
+    text-align: center;
   }
 
   .menu {
-    margin-top: 200px;
     list-style: none;
-    text-align: center;
+    margin-top: 200px;
     padding: 0;
+    text-align: center;
 
     li {
       margin-bottom: 40px;
@@ -63,6 +64,7 @@
     a {
       color: $aa-white;
       font-size:  30px;
+      text-decoration: underline;
     }
   }
 

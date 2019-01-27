@@ -22,7 +22,7 @@ class="duo"
   </div>
   <section class="wrapper container-fluid aa-color-light">
       <div class="row">
-        <div class="col-xs-12 col-tablet-8 col-tablet-offset-2">
+        <div class="col-xs-12 col-tablet-6 col-tablet-offset-3">
           <div class="duo-hero__intro">
             {{doc.introduction}}
           </div>
@@ -44,6 +44,14 @@ class="duo"
           </li>
           {% endfor %}
         </ul>
+      <div class="aa-bottom-left">
+        <a class="aa-pentagon" href="{{g.static(doc.concert_proposal.link, locale=doc.locale).url}}" target="_blank">
+          <div class="aa-pentagon__shape">
+          </div>
+          <div class="aa-pentagon__text aa-color-light">
+            {{doc.concert_proposal.text}}
+          </div>
+        </a>
       </div>
     </div>
   </section>
@@ -87,15 +95,15 @@ class="duo"
         </ul>
       </div>
     </div>
-    <div class="aa-duo-contact__personal-sites">
-      <a class="aa-duo-contact_teo-link">
-        {{doc.teo_site}}
-      </a>
-      <a class="aa-duo-contact_anna-link">
-        {{doc.anna_site}}
-      </a>
-    </div>
   </section>
+  <div class="aa-duo-contact__personal-sites aa-color-light">
+    <a class="aa-duo-contact_teo-link">
+      {{doc.teo_site}}
+    </a>
+    <a class="aa-duo-contact_anna-link">
+      {{doc.anna_site}}
+    </a>
+  </div>
 
 </section>
 {% endblock %}

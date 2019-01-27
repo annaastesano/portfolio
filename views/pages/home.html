@@ -1,4 +1,39 @@
 {% extends '/views/base.html' %}
+  <body {% block body_attributes %} {% endblock %}>
+
+  {% block header %}
+  <header class="aa-header aa-color-light" data-js-header>
+    <section class="wrapper container-fluid">
+      <div class="aa-header__logo">
+        <a href="#">
+          Anna Astesano
+      </a>
+      </div>
+      <ul class="aa-header__menu">
+        <li>
+          <a href="#bio">
+            Bio<span class="aa-u-display-none-mobile">graphy</span>
+          </a>
+        </li>
+        <li>
+          <a href="#events">
+            {{_(doc.events)}}
+          </a>
+        </li>
+        <li>
+          <a href="#media">
+            {{_(doc.media)}}
+          </a>
+        </li>
+        <li>
+          <a href="#contacts">
+            {{_(doc.contact)}}
+          </a>
+        </li>
+      </ul>
+    </section>
+  </header>
+  {% endblock%}
 
 {% block body %}
 <section class="aa-hero">
@@ -10,7 +45,7 @@
             <img src="/static/images/icons/instagram.svg" alt="" class="link__icon">
             <div class="link__animation-wrp">
               <div class="link__animation-text">
-                @globetrotterharp
+                {{_(doc.instagram)}}
               </div>
             </div>
           </a>
@@ -20,7 +55,7 @@
             <img src="/static/images/icons/mail.svg" alt="" class="link__icon">
             <div class="link__animation-wrp">
               <div class="link__animation-text">
-                annarpa93@gmail.com
+                {{_(doc.mail)}}
               </div>
             </div>
           </a>
@@ -30,7 +65,7 @@
             <img src="/static/images/icons/download.svg" alt="" class="link__icon">
             <div class="link__animation-wrp">
               <div class="link__animation-text">
-                Press Kit
+                {{_(doc.press_kit)}}
               </div>
             </div>
           </a>
@@ -38,7 +73,7 @@
       </ul>
     </div>
     <div class="aa-hero__harpist">
-      harpist
+      {{_(doc.harpist)}}
       <!-- <div>
         <span>h</span>
         <span>ar</span>
@@ -53,16 +88,22 @@
     <div class="row">
       <div class="col-xs-12 col-tablet-4 col-tablet-offset-1">
         <h1 class="beta aa-bio__title">
-          Biography
+          {{_(doc.biography)}}
         </h1>
         <p>
-            After her Bachelor and Master studies at the CNSMD in Lyon,  Anna Astesano joined the harp class at Trinity and Laban Conservatoire of Music and Danse in the Postgraduate Advanced Diploma course.  She has won several national and international competitions. Between 2014 and 2015 she has been harpist at “Teatro alla Scala” Academy in Milan.In the summer 2015 she attended the NJO (Netherlands Jugend Orchestra) and the Mediterranean Youth Orchestra followed by coaches from the London Symphonic Orchestra.
+          {{_(doc.description_p1)}}
         </p>
-        <p> In June 2015 she won the audition as first harp at “Luigi Cherubini” Orchestra, conducted by Maestro Riccardo Muti, where she is actually playing.</p>
+        <p>
+          {{_(doc.description_p1)}}
+        </p>
       </div>
       <div class="col-xs-12 col-tablet-4 col-tablet-offset-1">
-          <p> Since 2017 she has been awarded scholarships offered by the Turin CRT Foundation, “De Sono” Association and Turin "Lions Club". In 2018 She was awarded the “Featured Young Performer” Award by the London Ear Festival, having soloist and chamber music concerts with the Uroboros Ensemble.</p>
-          <p>  She has collaborated with the Royal Opera House, the Orchestra Sinfonica Nazionale (RAI) in Turin,the Kobolov Novaya Opera Theatre of Moscow, the London Southbank Sinfonia and many others London institutions, performing at the Abbey Road Studios and Wigmore Hall between the others. She is actually the Future Foyle First harpist in the programme promoted by the London Philharmonic Orchestra. She has been awarded the "John Marson Prize for best performer" and will have her debut in St-Martin-in-the-Fields in May 2019. Since November 2018 she is a Concordia Foundation Artist. </p>
+        <p>
+          {{_(doc.description_p3)}}
+        </p>
+        <p>
+          {{_(doc.description_p4)}}
+        </p>
       </div>
     </div>
   </section>
@@ -73,7 +114,7 @@
     <div class="row">
       <div class="col-xs-12 col-tablet-10 col-tablet-offset-1">
         <h1 class="beta aa-events__title">
-          Events
+          {{_(doc.events)}}
         </h1>
         <div class="aa-events__container">
         </div>
@@ -87,7 +128,7 @@
     <div class="row">
       <div class="col-xs-12 col-tablet-10 col-tablet-offset-1">
         <h1 class="beta aa-media__title">
-          Media
+          {{_(doc.media)}}
         </h1>
         <div class="aa-media__medias">
           <div class="aa-media__media">
@@ -119,24 +160,24 @@
         <div class="row">
           <div class="col-xs-12 col-tablet-4 col-tablet-offset-1">
               <h1 class="beta aa-bio__title">
-                Contact
+                {{_(doc.contact)}}
               </h1>
               <p>
                 <a href="https://www.instagram.com/globetrotterharp/" target="_blank">
                   <img src="/static/images/icons/instagram.svg" alt="" class="link__icon">
-                  @globetrotterharp
+                  {{_(doc.instagram)}}
                 </a>
               </p>
               <p>
                 <a href="mailto:annarpa93@gmail.com">
                   <img src="/static/images/icons/mail.svg" alt="" class="link__icon">
-                  annarpa93@gmail.com
+                  {{_(doc.mail)}}
                 </a>
               </p>
               <p>
                 <a href="/static/images/press-kit.zip">
                   <img src="/static/images/icons/download.svg" alt="" class="link__icon">
-                  Press Kit
+                  {{_(doc.press_kit)}}
                 </a>
               </p>
 
@@ -153,7 +194,7 @@
               <input type="hidden" name="_subject" value="Message via http://annaastesano.com">
               <textarea id="message" name="message" rows="10" required></textarea>
               <button type="submit">
-                Send
+                {{_(doc.send)}}
               </button>
             </form>
         </div>

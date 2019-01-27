@@ -1,4 +1,4 @@
-$title@: Duet Yugen
+$title@: Yugen Duet
 $path: /{root}/duo-yugen
 $view: /views/pages/duo.html
 
@@ -8,11 +8,11 @@ Since their first meeting at the Conservatoire National Supérieur de Musique et
 Harp and viola blend together into a unique warm sound, wandering away from the more classical chamber music ensembles. Their continue search for new repertoire and transcriptions, depict them as a modern and dynamic duo, gifted with an intense musical connection and understanding."
 
 menu:
-  - text: repertoire
+  - text: Repertoire
     link: "#repertoire"
-  - text: media
+  - text: Media
     link: "#media"
-  - text: contact
+  - text: Contact
     link: "#contact"
 
 
@@ -35,6 +35,11 @@ repertoire:
   - Sampietro Carlo (19th Century), Duet for harp and viola
   - Satie Eric (1866-1925), Three Gymnopedies
   - "Stanley Charles Jones (1715), Viola Sonata: Adagio, Poco Allegro, Gigue op. 4 n4"
+
+
+concert_proposal:
+  text: Concert proposal
+  link: /source/images/duo/concert_proposal_en.pdf
 
 media_title: Media
 
