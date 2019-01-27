@@ -1,4 +1,4 @@
-grow_version: "==0.5.0"
+grow_version: "==0.6.5"
 home: /content/pages/home.yaml
 root: ""
 
@@ -20,10 +20,6 @@ static_dirs:
     serve_at: /{root}/static/
   - static_dir: /source/images/
     serve_at: /{root}/static/images/
-
-sitemap:
-  enabled: true
-
 
 deployments:
   default:
