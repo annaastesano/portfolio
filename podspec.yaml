@@ -1,6 +1,5 @@
 grow_version: "==0.6.5"
 home: /content/pages/home.yaml
-root: ""
 
 title: "Anna Astesano"
 meta:

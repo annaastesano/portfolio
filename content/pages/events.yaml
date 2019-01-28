@@ -1,3 +1,10 @@
 $title@: events
-$path: /{root}/events.json
+$path: /events.json
 $view: /views/events.json
+
+$localization:
+  default_locale: en
+  path: /{locale}/events.json
+  $locales:
+    - it
+    - fr

@@ -1,6 +1,13 @@
 $title@: Yugen Duet
-$path: /yugen-duet
+$path: /yugen-duet/
 $view: /views/pages/duo.html
+
+$localization:
+  default_locale: en
+  path: /{locale}/yugen-duet/
+  $locales:
+    - it
+    - fr
 
 description@: Captivating viola and harp duo.
 introduction@: "<<Beauty is not just about the seen, but the unseen. The playwright Zeami tries to describe the concept of Yugen with the image of “subtle shadows of bamboo on bamboo”>>. Since their first meeting at the Conservatoire National Supérieur de Musique et Danse in Lyon in 2013, Anna Astesano and Theo Delianne have not stopped playing together. Harp and viola blend together into a unique warm sound, wandering away from the more classical chamber music ensembles. Their continue search for new repertoire and transcriptions, depict them as a modern and dynamic duo, gifted with an intense musical connection and understanding."

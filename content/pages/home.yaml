@@ -2,6 +2,13 @@ $title@: Anna Astesano – Harpist
 $path: /
 $view: /views/pages/home.html
 
+$localization:
+  default_locale: en
+  path: /{locale}/
+  $locales:
+    - it
+    - fr
+
 description@: Enthusiast musician living in London. Check out here her latest news and events.
 
 header_bio@: Bio<span class="aa-u-display-none-mobile">graphy</span>
