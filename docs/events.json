@@ -89,23 +89,12 @@
     "bk_date": "02/11/2018",
     "hour": "1.05 :00",
     "maps_link": "https://goo.gl/maps/sJg53sjnH922",
-    "title": "Chamber music Recital",
+    "title": "Chamber Music Recital",
     "orchestra": "Harp: Anna Astesano, Flute: Emma Harding, Cello: Thibault Blanchard",
     "where": "Old Royal Naval Chapel, Greenwich",
     "programme": "Piazzolla, Haydn, Boulanger, Damase",
     "more_info": "<a href=\"https://www.trinitylaban.ac.uk/whats-on/emma-harding-flute-thibault-blanchard-cello-anna-asesano-harp\" target=\"_blank\">http://https://www.trinitylaban.ac.uk/whats-on/emma-harding-flute-thibault-blanchard-cello-anna-asesano-harp </a>",
     "date": "2018-11-02T13:05"
-  },
-  {
-    "bk_date": "07/11/2018",
-    "hour": "6 :00",
-    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
-    "title": "Free pre-concert performance",
-    "orchestra": "LPO Future Foyle First Programme",
-    "where": "Royal Festival Hall, London",
-    "programme": "Chamber programme inspired by the themes of the LPO's season",
-    "more_info": "<a href=\"https://www.lpo.org.uk/whats-on-and-tickets/5255-free-preconcert-performance-foyle-future-firsts.html\" target=\"_blank\">What's on and tickets</a>",
-    "date": "2018-11-07T18:00"
   },
   {
     "bk_date": "08/11/2018",
@@ -147,55 +136,7 @@
     "more_info": "<a href=\"https://www.city-academy.com/chamber-winter-showcase.html\" target=\"_blank\">What's on and tickets</a>",
     "date": "2018-12-06T20:00"
   },
-   {
-    "bk_date": "26/01/2019",
-    "hour": "11 :30",
-    "title": "Private event",
-    "date": "2019-01-26T11:30"
-  },
   {
-      "bk_date": "30/03/2019",
-    "hour": "10 :00",
-    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
-    "title": "FunHarmonics",
-    "orchestra": "LPO Future Foyle Firsts",
-    "where": "Royal Festival Hall, London",
-    "programme": "Activities for children from six and over",
-    "more_info": "<a href=\"https://www.lpo.org.uk/whats-on-and-tickets/5129-conducting-science-voice-box.html\" target=\"_blank\">What's on and tickets</a>",
-    "date": "2019-03-30T10:00"
-  },
-  {
-    "bk_date": "05/04/2019",
-    "hour": "6 :00",
-    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
-    "title": "Free pre-concert performance",
-    "orchestra": "LPO Future Foyle First Programme",
-    "where": "Royal Festival Hall, London",
-    "programme": "The Foyle Future Firsts bring their youthful energy to a celebration of British chamber music, as part of Isle of Noises",
-    "more_info": "<a href=\"https://www.lpo.org.uk/whats-on-and-tickets/5261-free-preconcert-performance-foyle-future-firsts.html\" target=\"_blank\">What's on and tickets</a>",
-    "date": "2019-04-05T18:00"
-  },
-  {
-    "bk_date": "27/04/2019",
-    "hour": "6 :00",
-    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
-    "title": "Free pre-concert performance",
-    "orchestra": "LPO Future Foyle First Programme",
-    "where": "Royal Festival Hall, London",
-    "programme": "This year's LPO Junior Artists - perform British music alongside LPO members and Junior Artist alumni.",
-    "more_info": "<a href=\"http://www.lpo.org.uk/whats-on-and-tickets/5263-free-preconcert-performance-lpo-junior-artists.html\" target=\"_blank\">What's on and tickets</a>",
-    "date": "2019-04-27T18:00"
-  },
-  {
-    "bk_date": "14/05/2019",
-    "hour": "1 :00",
-    "maps_link": "https://goo.gl/maps/mV63vr69fGy",
-    "title": "John Marson's Price for Best Harp Performer",
-    "orchestra": "Anna Astesano e Michela Zanoni",
-    "where": "Saint-Martin-in-the-Fields Church",
-    "date": "2019-05-14T13:00"
-  },
-   {
     "date": "2018-12-08T19:00",
     "hour": "7 pm",
     "maps_link": "https://goo.gl/maps/tittaxXZ7nN2",
@@ -212,5 +153,61 @@
     "where": "Saint Giles in the Fields Church, WC2H 8LG",
     "programme": "Music Carols to celebrate the Christmas season",
     "more_info": "<a href=\" https://www.stgilesmusic.org\" target=\"_blank\">What's on and tickets</a>"
+  },
+  {
+    "bk_date": "26/01/2019",
+    "hour": "11 :30",
+    "title": "Private event",
+    "date": "2019-01-26T11:30"
+  },
+  {
+    "bk_date": "19/03/2019",
+    "hour": "8.30 pm",
+    "maps_link": "https://goo.gl/maps/tittaxXZ7nN2",
+    "title": "Private Gala Event",
+    "where": "The British Museum, the Hotung Gallery",
+    "date": "2018-03-19T20:30"
+  },
+  {
+    "bk_date": "30/03/2019",
+    "hour": "10 :00",
+    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
+    "title": "FunHarmonics",
+    "orchestra": "LPO Future Foyle Firsts",
+    "where": "Royal Festival Hall, London",
+    "programme": "Activities for children from six and over",
+    "more_info": "<a href=\"https://www.lpo.org.uk/whats-on-and-tickets/5129-conducting-science-voice-box.html\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2019-03-30T10:00"
+  },
+  {
+    "bk_date": "30/03/2019",
+    "hour": "7 :30 pm",
+    "maps_link": "https://goo.gl/maps/UF6k9u5QRmE2",
+    "title": "Shostakovich and Ustvolskaya",
+    "orchestra": "Fulham Symphony Orchestra : Marc Dooley, conductor",
+    "where": "Hammersmith Town Hall, London",
+    "programme": "Galina Ustvolskaya : Symphonic Poem No. 2 (UK premiere) ; Dmitri Shostakovich : Symphony No. 4",
+    "more_info": "<a href=\"https://fso.org.uk/2018/05/25/spring-2019\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2019-03-30T10:00"
+  },
+  {
+    "bk_date": "05/04/2019",
+    "hour": "6 :00",
+    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
+    "title": "Pre-concert performance",
+    "orchestra": "LPO Future Foyle First Programme",
+    "where": "Royal Festival Hall, London",
+    "programme": "The Foyle Future Firsts bring their youthful energy to a celebration of British chamber music, as part of Isle of Noises",
+    "more_info": "<a href=\"https://www.lpo.org.uk/whats-on-and-tickets/5261-free-preconcert-performance-foyle-future-firsts.html\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2019-04-05T18:00"
+  },
+  {
+    "bk_date": "14/05/2019",
+    "hour": "1 :00",
+    "maps_link": "https://goo.gl/maps/mV63vr69fGy",
+    "title": "John Marson's Price for Best Harp Performer",
+    "orchestra": "Anna Astesano and Michela Zanoni",
+    "where": "Saint-Martin-in-the-Fields Church",
+    "date": "2019-05-14T13:00"
   }
 ]
