@@ -209,5 +209,77 @@
     "orchestra": "Anna Astesano and Michela Zanoni",
     "where": "Saint-Martin-in-the-Fields Church",
     "date": "2019-05-14T13:00"
+  },
+  {
+    "bk_date": "05/05/2019",
+    "hour": "5 :45",
+    "maps_link": "https://goo.gl/maps/UN7au6RASk22KoEDA",
+    "title": "Songs from New Musicals",
+    "orchestra": "London Musical Theatre Orchestra",
+    "where": "Bishoosgate Institute",
+    "programme": "A 70-piece orchestra and full chorus will be belting out 13 incredible new songs",
+    "more_info": "<a href=\"https://www.facebook.com/theLMTO/?epa=SEARCH_BOX\" target=\"_blank\">Live Facebook Streaming</a>",
+    "date": "2019-05-05T17:45"
+  },
+  {
+    "bk_date": "06/05/2019",
+    "hour": "4 :30",
+    "title": "London Camac Harp Competition",
+    "orchestra": "Chamber music",
+    "programme": "Harp and flute duo with Emma Harding",
+    "more_info": "<a href=\"http://www.northlondonfestival.org.uk/special-competitions/camac-harp-competition/\" target=\"_blank\">Website information</a>",
+    "date": "2019-05-06T16:30"
+  },
+  {
+    "bk_date": "17/05/2019",
+    "hour": "1 :00",
+    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
+    "title": "Lunch Concert",
+    "orchestra": "LPO Future Foyle Firsts and LPO players",
+    "where": "Southbank Centre, London",
+    "programme": "Chamber Music Pioneers",
+    "more_info": "<a href=\"https://www.lpo.org.uk/whats-on/whats-on-tickets.html\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2019-05-17T13:00"
+  },
+   {
+    "bk_date": "21/05/2019",
+    "hour": "11 :30",
+    "maps_link": "https://goo.gl/maps/ogGFeaUgr4CFuNPb6",
+    "title": "Lunchtime Concert",
+    "orchestra": "Concordia Foundation Event",
+    "where": "UCH Macmillan Cancer Centre",
+    "more_info": "<a href=\"http://www.concordiafoundation.com/uk-events\" target=\"_blank\">News and events</a>",
+    "date": "2019-05-21T11:30"
+  },
+  {
+    "bk_date": "25/05/2019",
+    "hour": "7 :30",
+    "maps_link": "https://goo.gl/maps/pQHkUgcuNz8Z7btd8",
+    "title": "Gala Opera Concert",
+    "orchestra": "Dulwich Opera Company Chamber Orchestra",
+    "where": "New Vaughan Williams Auditorium",
+    "more_info": "<a href=\"http://mailchi.mp\" target=\"_blank\">Buy tickets</a>",
+    "date": "2019-05-25T19:30"
+  },
+  {
+    "bk_date": "04/06/2019",
+    "hour": "1 :05",
+    "maps_link": "https://goo.gl/maps/zBnsZMTDT8NAekGg6",
+    "title": "Lunchtime Concert",
+    "orchestra": "Harp and doublebass duo with Valentina Ciardelli",
+    "where": "The Old Royal Naval College Chapel",
+    "more_info": "<a href=\"https://www.ornc.org/Pages/Events/Category/all-events#XEdsiPrgpFLRFg8d.97\" target=\"_blank\">Events at the ORNC Chapel</a>",
+    "date": "2019-06-04T13:05"
+  },
+   {
+    "bk_date": "25/06/2019",
+    "hour": "7 :30",
+    "maps_link": "https://goo.gl/maps/EK1WmY7GgPr2z6GV6",
+    "title": "Love and Fantasy",
+    "orchestra": "Fidelio Orchestra",
+    "where": "Church of Saint Andrew",
+    "programme": "Wagner, Berlioz, Strauss",
+    "more_info": "<a href=\"https://www.fideliorchestra.art/events\" target=\"_blank\">Events and tickets</a>",
+    "date": "2019-06-25T19:30"
   }
 ]
