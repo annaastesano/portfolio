@@ -30,8 +30,9 @@ axios.get(eventsEndpoint)
         const now = new Date()
         const futureEvents = events
             .filter((e) => new Date(e.date) > now)
-        const pastEvents = events
-            .filter((e) => new Date(e.date) < now);
+        let pastEvents = events
+            .filter((e) => new Date(e.date) < now)
+            .slice(-7, -1);
 
          eventsContainer.innerHTML = html({
             futureEvents,
