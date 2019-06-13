@@ -290,5 +290,36 @@
     "programme": "Wagner, Berlioz, Strauss",
     "more_info": "<a href=\"https://www.fideliorchestra.art/events\" target=\"_blank\">Events and tickets</a>",
     "date": "2019-06-25T19:30"
+  },
+  {
+    "bk_date": "01/06/2019",
+    "hour": "7 :30",
+    "maps_link": "https://goo.gl/maps/4gjt4WRZw8NnQRk87",
+    "title": "Debut Sounds, Terra Firma",
+    "where": "Queen Elisabeth Hall, Southbank Centre, London",
+    "programme": "James MacMillan conducts an ensemble of musicians from the LPO’s Foyle Future Firsts Development Programme, alongside LPO players and vocal ensemble Echo",
+    "more_info": "<a href=\"https://www.lpo.org.uk/whats-on/whats-on-tickets/5476-debut-sounds.html\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2019-06-01T19:30"
+  },
+  {
+    "bk_date": "04/06/2019",
+    "hour": "7 :00",
+    "maps_link": "https://goo.gl/maps/H6orCiM25DYXDA3u5",
+    "orchestra": "The Whitehall Orchestra",
+    "where": "St Gabriel's, Pimlico, London",
+    "programme": "Music by Britten, Ravel, Strauss, Debussy",
+    "more_info": "<a href=\"https://www.whitehallorchestra.org.uk\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2019-06-04T19:00"
+  },
+    {
+    "bk_date": "17/08/2019",
+    "hour": "7 :30",
+    "maps_link": "https://goo.gl/maps/mTDijdZVv3yVKfC48",
+    "orchestra": "The London Philharmonic Orchestra",
+    "conductor": "Vladimir Jurowski",
+    "where": "Royal Albert Hall",
+    "programme": "Prom41:Rimsky-Korsakov, Rachmaninov, Lyadov & Glazunov",
+    "more_info": "<a href=\"https://www.bbc.co.uk/events/ebv9hn\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2019-08-17T19:30"
   }
 ]
