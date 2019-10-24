@@ -491,5 +491,26 @@
     "where": "UCH Macmillan Cancer Centre",
     "more_info": "<a href=\"http://www.concordiafoundation.com/uk-events\" target=\"_blank\">News and events</a>",
     "date": "2019-12-03T11:30"
-  }  
+  },
+  {
+    "bk_date": "31/03/2020",
+    "hour": "06 :30",
+    "maps_link": "https://maps.app.goo.gl/VCSsj5rWXXWjy8VY9",
+    "title": "Roberto Gerhard Commemoration",
+    "orchestra": "Park Lane Music Trust",
+    "where": "Purcell Room, Southbank Centre",
+    "more_info": "<a href=\"https://www.southbankcentre.co.uk/venues/purcell-room#events\" target=\"_blank\">News and events</a>",
+    "date": "2020-03-12T18:30"
+  }, 
+  {
+    "bk_date": "29/04/2020",
+    "hour": "01 :10",
+    "maps_link": "https://maps.app.goo.gl/2XX71MuCvc2R1S1F9",
+    "title": "Solo Recital",
+    "orchestra": "Park Lane Music Trust",
+    "where": "St James's Church Piccadilly",
+    "programme": "Berio , Britten, Bardanashvili, Caplet",
+    "more_info": "<a href=\"https://www.sjp.org.uk/evening-concerts.html\" target=\"_blank\">News and events</a>",
+    "date": "2020-04-29T13:10"
+  }
 ]
