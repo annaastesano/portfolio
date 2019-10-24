@@ -407,15 +407,15 @@
     "date": "2019-09-25T20:00"
   }, 
   {
-    "bk_date": "10/10/2019",
+    "bk_date": "26/11/2019",
     "hour": "8 :00",
     "maps_link": "https://goo.gl/maps/UePFYeAwY1LhaE118",
     "title": "Lyons Club Torino Award",
     "where": "Torino, Unione Industriali",
-    "date": "2018-10-10T20:00"
+    "date": "2018-11-26T20:00"
   },
   {
-    "bk_date": "25/10/2019",
+    "bk_date": "29/10/2019",
     "hour": "1 :05",
     "maps_link": "https://goo.gl/maps/zBnsZMTDT8NAekGg6",
     "title": "Lunchtime Concert",
@@ -423,7 +423,7 @@
     "where": "The Old Royal Naval College Chapel",
     "programme": "Claude Debussy, Nino Rota, Astor Piazzolla, Anne Boyd",
     "more_info": "<a href=\"https://www.ornc.org/Pages/Events/Category/all-events#XEdsiPrgpFLRFg8d.97\" target=\"_blank\">Events at the ORNC Chapel</a>",
-    "date": "2019-10-25T13:05"
+    "date": "2019-10-29T13:05"
   },
   {
     "bk_date": "28/10/2019",
@@ -437,6 +437,17 @@
     "date": "2019-10-28T19:30"
   },
   {
+    "bk_date": "27/10/2019",
+    "hour": "8 :00",
+    "maps_link": "https://goo.gl/maps/i2ng4qsvVeCQ82Mx5",
+    "orchestra": "Orchestra e Coro del Maggio Musicale Fiorentino",
+    "conductor": "Emmanuel Krivine",
+    "where": "Teatro del Maggio, Firenze",
+    "programme": "Edvard Grieg, Peer Gynt and Holberg Suite, Hector Berlioz Symphonie Fantastique",
+    "more_info": "<a href=\"https://www.maggiofiorentino.com/events/emmanuel-krivine-2\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2019-10-27T20:00"
+  }, 
+  {
     "bk_date": "14/11/2019",
     "hour": "7 :30",
     "maps_link": "https://goo.gl/maps/NPkEnpcro92AtBuS6",
@@ -447,6 +458,28 @@
     "more_info": "<a href=\"https://fidelio.space/whats-on/flute-and-harp\" target=\"_blank\">What's on and tickets</a>",
     "date": "2019-11-14T19:30"
   },
+  {
+    "bk_date": "23/11/2019",
+    "hour": "5 :00",
+    "maps_link": "https://maps.app.goo.gl/WcLirjkbfks5Hu3Y7",
+    "title": "Eccellenza incontra Eccellenza",
+    "orchestra": "The Girls in the Magnesium Dress",
+    "where": "Chiesa di San Sebastiano, La Morra (CN)",
+    "programme": "Puccini, Granados, Zappa, Stravinsky",
+    "more_info": "<a href=\"http://www.museodellarpavictorsalvi.it/mobile_it/eventi.html\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2019-11-23T17:00"
+  },
+  {
+    "bk_date": "29/11/2019",
+    "hour": "8 :00",
+    "maps_link": "https://goo.gl/maps/i2ng4qsvVeCQ82Mx5",
+    "orchestra": "Orchestra e Coro del Maggio Musicale Fiorentino",
+    "conductor": "Joana Carneiro",
+    "where": "Teatro del Maggio, Firenze",
+    "programme": "Debussy Prelude à l'après midi d'un faune,Salonen Nyx, Sibelius symphony n°5 ",
+    "more_info": "<a href=\"https://www.maggiofiorentino.com/events/joana-carneiro\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2019-11-27T20:00"
+  }, 
   {
     "bk_date": "03/12/2019",
     "hour": "11 :30",
