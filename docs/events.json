@@ -532,5 +532,38 @@
     "programme": "Berio , Britten, Bardanashvili, Caplet",
     "more_info": "<a href=\"https://www.sjp.org.uk/evening-concerts.html\" target=\"_blank\">News and events</a>",
     "date": "2020-04-29T13:10"
-  }
+  },
+  {
+    "bk_date": "09/01/2020",
+    "hour": "01 :00",
+    "maps_link": "https://www.google.com/maps/place/Chelsea+and+Westminster+Hospital,+369+Fulham+Rd,+Chelsea,+London+SW10+9NH,+Regno+Unito/@51.4849533,-0.182401,17z/data=!4m2!3m1!1s0x4876056361d23e73:0x90c3921f87d2167f?hl=it",
+    "title": "Lunchtime Recital",
+    "orchestra": "Concordia Foundation Event",
+    "where": "Chelsea and Westminster Hospital",
+    "more_info": "<a href=\"http://www.concordiafoundation.com/uk-events\" target=\"_blank\">News and events</a>",
+    "date": "2020-01-09T13:00"
+  },
+  {
+    "bk_date": "25/01/2020",
+    "hour": "8 :00",
+    "maps_link": "https://goo.gl/maps/i2ng4qsvVeCQ82Mx5",
+    "title": "Daniele Gatti conducts Mahler",
+    "orchestra": "Orchestra e Coro del Maggio Musicale Fiorentino",
+    "conductor": "Daniele Gatti",
+    "where": "Teatro del Maggio, Firenze",
+    "programme": "Mahler 6",
+    "more_info": "<a href=\"https://www.maggiofiorentino.com/events\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2020-01-25T20:00"
+
+  {
+    "bk_date": "27/01/2020",
+    "hour": "07:00",
+    "maps_link": "https://www.google.com/maps/place/Southbank+Centre,+Belvedere+Rd,+Lambeth,+London+SE1+8XX,+Regno+Unito/@51.5054084,-0.1170401,17z/data=!4m5!1m2!2m1!1sPurcell+room!3m1!1s0x487604b7e7c78711:0xd22adec9abde65cd?hl=it",
+    "title": "Trinity Laban Gold Medal Showcase 2020",
+    "orchestra": "Ben Leigh Grosart solo harp piece premiere",
+    "where": "Purcell Room, Southbank Centre",
+    "more_info": "<a href=\"https://www.southbankcentre.co.uk/whats-on/129033-trinity-laban-gold-medal-showcase-2020-2020#events\" target=\"_blank\">News and events</a>",
+    "date": "2020-01-27T19:00"
+
+  
 ]
