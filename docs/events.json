@@ -568,5 +568,68 @@
     "hour": "08 :30",
     "title": "Private Concert, duo with flutist Anna Kondrashina",
     "date": "2020-03-05T20:30"
+  },
+  {
+    "bk_date": "21/02/2020",
+    "hour": "8 :00",
+    "maps_link": "https://goo.gl/maps/i2ng4qsvVeCQ82Mx5",
+    "title": "Concerto Bringuier",
+    "orchestra": "Orchestra e Coro del Maggio Musicale Fiorentino",
+    "conductor": "Lionel Bringuier",
+    "where": "Teatro del Maggio, Firenze",
+    "programme": "Rvel, Sibelius, Prokoviev",
+    "more_info": "<a href=\"https://www.maggiofiorentino.com/en/events/lionel-bringuier-2\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2020-02-21T20:00"
+  }, 
+  {
+    "bk_date": "04/04/2020",
+    "hour": "12 :00",
+    "title": "Private Event",
+    "where": "Islington Town Hall, London",
+    "date": "2020-04-04T12:00"
+  },
+  {
+    "bk_date": "05/04/2020",
+    "hour": "9 :00",
+    "maps_link": "https://goo.gl/maps/EFLnLpLDr9QPmq1g8",
+    "title": "Domeniche in Musica",
+    "orchestra": "The Girls in the Magnesium Dress",
+    "where": "Ridotto Teatro Impavidi, Sarzanna",
+    "programme": "Puccini, Schubert, Zappa, Rossini",
+    "more_info": "<a href=\"https://www.teatroimpavidisarzana.it\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2020-04-05T21:00"
+  },
+  {
+    "bk_date": "25/04/2020",
+    "hour": "7 :30",
+    "maps_link": "https://goo.gl/maps/E437RcX18KdFvznD7",
+    "title": "Spring Opera Gala 2020",
+    "orchestra": "Instant Opera",
+    "where": "The Exchange, Twickenham",
+    "programme": "Puccini, Bizet, Rossini, Mozart, Handel, Gilbert & Sullivan and more",
+    "more_info": "<a href=\"https://exchangetwickenham.co.uk/event/instant-opera-spring-opera-gala\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2020-04-25T19:30"
+  },
+  {
+    "bk_date": "08/05/2020",
+    "hour": "1 :45",
+    "maps_link": "https://goo.gl/maps/5mYHM1LmigbQmkzDA",
+    "title": "Meridies Duo",
+    "orchestra": "Harp and flute duo with Emma Harding",
+    "where": "Claremont Project, Islington",
+    "programme": "Anne Boyd, Nino Rota, Claude Debussy, Astor Piazzolla and more",
+    "more_info": "<a href=\"https://https://www.claremont-project.org/\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2020-05-08T13:45"
+  },
+  {
+    "bk_date": "25/07/2020",
+    "hour": "9 :00",
+    "maps_link": "https://goo.gl/maps/dUzvP4UQZoFm4HZg9",
+    "title": "World Harp Congress 2020",
+    "orchestra": "The Girls in the Magnesium Dress",
+    "where": "Dora Stoutzker Hall, Cardiff",
+    "programme": "Puccini, Schubert, Zappa",
+    "more_info": "<a href=\"https://https://www.whc2020.wales\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2020-07-25T09:00"
   }
 ]
