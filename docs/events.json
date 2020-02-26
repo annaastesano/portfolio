@@ -570,7 +570,40 @@
     "date": "2020-03-05T20:30"
   },
   {
-    "bk_date": "21/02/2020",
+    "bk_date": "12/03/2020",
+    "hour": "7 :30",
+    "maps_link": "https://goo.gl/maps/bebyhCBSLuvhZPij6",
+    "title": "Mahler 3",
+    "orchestra": "Accademia Nazionale di Santa Cecilia",
+    "conductor": "Myung Whun Chung",
+    "where": "Auditorium Parco della Musica Roma",
+    "more_info": "<a href=\" http://www.santacecilia.it/concerti_e_biglietti/index.html#month=2&year=2020&anchor=\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2020-03-12T19:30"
+  }, 
+  {
+    "bk_date": "13/03/2020",
+    "hour": "8 :30",
+    "maps_link": "https://goo.gl/maps/bebyhCBSLuvhZPij6",
+    "title": "Mahler 3",
+    "orchestra": "Accademia Nazionale di Santa Cecilia",
+    "conductor": "Myung Whun Chung",
+    "where": "Auditorium Parco della Musica Roma",
+    "more_info": "<a href=\" http://www.santacecilia.it/concerti_e_biglietti/index.html#month=2&year=2020&anchor=\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2020-03-13T20:30"
+  }, 
+  {
+    "bk_date": "14/03/2020",
+    "hour": "6 :00",
+    "maps_link": "https://goo.gl/maps/bebyhCBSLuvhZPij6",
+    "title": "Mahler 3",
+    "orchestra": "Accademia Nazionale di Santa Cecilia",
+    "conductor": "Myung Whun Chung",
+    "where": "Auditorium Parco della Musica Roma",
+    "more_info": "<a href=\" http://www.santacecilia.it/concerti_e_biglietti/index.html#month=2&year=2020&anchor=\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2020-03-14T18:00"
+  }, 
+  {
+    "bk_date": "21/03/2020",
     "hour": "8 :00",
     "maps_link": "https://goo.gl/maps/i2ng4qsvVeCQ82Mx5",
     "title": "Concerto Bringuier",
@@ -578,13 +611,19 @@
     "conductor": "Lionel Bringuier",
     "where": "Teatro del Maggio, Firenze",
     "programme": "Rvel, Sibelius, Prokoviev",
-    "more_info": "<a href=\"https://www.maggiofiorentino.com/en/events/lionel-bringuier-2\" target=\"_blank\">What's on and tickets</a>",
-    "date": "2020-02-21T20:00"
+    "more_info": "<a href=\"https://www.maggiofiorentino.com.com/en/events/lionel-bringuier-2\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2020-03-21T20:00"
   }, 
+  {
+    "bk_date": "24/03/2020",
+    "hour": "17 :30",
+    "title": "Distillery Wine Tasting",
+    "date": "2020-03-24T17:30"
+  },
   {
     "bk_date": "04/04/2020",
     "hour": "12 :00",
-    "title": "Private Event",
+    "title": "Private? Event",
     "where": "Islington Town Hall, London",
     "date": "2020-04-04T12:00"
   },
