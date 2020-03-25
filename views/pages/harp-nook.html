@@ -1,0 +1,141 @@
+{% extends '/views/base.html' %}
+  <body {% block body_attributes %} {% endblock %}>
+
+    {% block header %}
+    <header class="aa-header aa-color-light" data-js-header>
+      <section class="wrapper container-fluid">
+        <div class="aa-header__logo">
+          <a href="#">
+            Anna Astesano
+        </a>
+        </div>
+        <ul class="aa-header__menu">
+          <li>
+            <a href="#contacts">
+              {{_(doc.contact)}}
+            </a>
+          </li>
+          <li>
+            <a href="#experiences">
+              Experiences
+            </a>
+          </li>
+        </ul>
+      </section>
+    </header>
+    {% endblock%}
+
+  {% block body %}
+  <div class="harp-nook">
+    <section class="aa-section aa-nook__hero">
+      <section class="wrapper container-fluid aa-color-light">
+        <div class="row">
+          <div class="col-xs-12 col-tablet-6 col-tablet-offset-6">
+            <h1 class="alpha aa-nook__title">
+              The Harp Nook
+            </h1>
+            <h2 class="aa-nook__sub-title"> Your tailored home harp experience </h2>
+
+            <p>
+              The last couple of weeks have been really though: social distancing is not part of the human nature and we are forced to spend most of our time at home.
+            </p>
+            <p>
+              We are missing more than ever going out with our friends, family and partner, not being able to create and share experiences that last in our memories.
+            </p>
+            <p>
+              I would like to create with your help something new: a harp experience tailored and shaped just for you to share precious time with your beloved ones.
+            </p>
+            <a href="#contacts" class="aa-nook__contact-me"> Contact me </a>
+          </div>
+        </div>
+      </section>
+    </section>
+    <section id="experiences" class="aa-section aa-nook__experiences">
+      <div class="wrapper container-fluid">
+        <div class="row">
+          <div class="col-xs-12 col-tablet-10 col-tablet-offset-1">
+            <h1 class="beta aa-nook__experiences-title">
+              Experiences
+            </h1>
+            <div class="aa-nook__experiences__container">
+              <div class="aa-nook__experience">
+                <div class="aa-nook__experience-title">
+                  Date Night
+                </div>
+                <div class="aa-nook__experience-desc">
+                  Share an intimate dinner with your other half, listening to romantic harp music in the background (asking in advance some specific songs if they mean something special for you)
+                </div>
+              </div>
+              <div class="aa-nook__experience">
+                <div class="aa-nook__experience-title">
+                  Grab a Pint
+                </div>
+                <div class="aa-nook__experience-desc">
+                  Join your friends in a chilled “home/pub” performance, enjoying classical and pop music while having a drink and chat with your buddies
+                </div>
+              </div>
+              <div class="aa-nook__experience">
+                <div class="aa-nook__experience-title">
+                  Quiz Night
+                </div>
+                <div class="aa-nook__experience-desc">
+                  Take part to a little game with your family and/or friends, guessing the most famous film music soundtracks
+                </div>
+              </div>
+              <div class="aa-nook__experience">
+                <div class="aa-nook__experience-title">
+                  Nap Time
+                </div>
+                <div class="aa-nook__experience-desc">
+                  Make your children listen to harp lullabies and songs, helping them (and parents!) handling days without school with a soothing and calming effect during their play or nap time
+                </div>
+              </div>
+              <div class="aa-nook__experience">
+                <div class="aa-nook__experience-title">
+                  Time with Pop and Granny
+                </div>
+                <div class="aa-nook__experience-desc">
+                  Show your elder relatives that you are thinking of them even if you can’t meet at the moment: give them a call and let them enjoy some classical music to lift the fear and anxieties for a while
+                </div>
+              </div>
+
+              Tell me your personalised ideas, I will be glad to arrange something different together!
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contacts" class="aa-section aa-contact">
+        <div class="wrapper container-fluid aa-color-light">
+            <div class="row">
+              <div class="col-xs-12 col-tablet-4 col-tablet-offset-1">
+                  <h1 class="beta aa-bio__title">
+                    {{_(doc.contact)}}
+                  </h1>
+                  <p>
+                    <a href="https://www.instagram.com/globetrotterharp/" target="_blank">
+                      <img src="/static/images/icons/instagram.svg" alt="" class="link__icon">
+                      {{_(doc.instagram)}}
+                    </a>
+                  </p>
+                </div>
+                <form class="col-xs-12 col-tablet-5 col-tablet-offset-1"
+                    action="https://formspree.io/annarpa93@gmail.com"
+                    method="POST">
+                  <label for="name">{{_(doc.your_name)}}:</label>
+                  <input type="text" id="name" name="name">
+                  <label for="email">{{_(doc.your_mail)}}:</label>
+                  <input type="email" id="email" name="_replyto">
+                  <label for="message">{{_(doc.your_message)}}:</label>
+                  <input type="text" name="_gotcha" style="display:none">
+                  <input type="hidden" name="_subject" value="Message via http://annaastesano.com">
+                  <textarea id="message" name="message" rows="10" required></textarea>
+                  <button type="submit">
+                    {{_(doc.send)}}
+                  </button>
+                </form>
+            </div>
+    </section>
+  </div>
+{% endblock %}

@@ -1,0 +1,24 @@
+$title@: The harp nook
+$path: /harp-nook
+$view: /views/pages/harp-nook.html
+
+$localization:
+  default_locale: en
+  path: /{locale}/harp-nook
+  $locales:
+    - it
+    - fr
+
+
+description@: Tailored harp music from my living room to yours.
+
+instagram: "@globetrotterharp"
+mail: annarpa93@gmail.com
+
+contact@: Contact
+
+your_name@: Your name
+your_mail@: Your email address
+your_message@: Message
+send@: Send
+

@@ -1,0 +1,125 @@
+.harp-nook {
+  p {
+    padding-bottom: 15px;
+  }
+
+  .aa-contact {
+    background-color: #2d2b29;
+
+    button {
+      border: 1px solid $aa-font-color-light;
+      border-radius: 4px;
+    }
+  }
+
+  .link__icon {
+    filter: invert(70%);
+  }
+}
+
+.aa-nook__title {
+  font-family: 'Questrial', sans-serif;
+  font-size: 60px;
+  letter-spacing: 0.1em;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  line-height: normal;
+}
+
+.aa-nook__sub-title {
+  font-size: 21px;
+  font-weight: 300;
+  letter-spacing: .05em;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+
+  @include mq($from:tablet) {
+    padding-bottom: 50px;
+  }
+}
+
+.aa-nook__hero {
+  background-color: #2d2b29;
+  position: relative;
+  padding-top: 100px;
+
+  .wrapper {
+    position: relative;
+  }
+
+  .col-tablet-4+.col-tablet-4 {
+    margin-top: 72px;
+  }
+
+  &::before {
+    background-image:
+    radial-gradient(circle at 60% 20%, rgba(45, 43, 41, 0.1), rgba(45, 43, 41, 0.7) 60%), url(../images/harp-nook/hero.jpg),
+    url(../images/harp-nook/hero.jpg);
+
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    bottom: 0;
+    content: '';
+    opacity: .8;
+    display: block;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+
+    @include mq($from:tablet) {
+      background-position: top right;
+      opacity: 1;
+      background-image:
+      radial-gradient( rgba(45, 43, 41, .1), rgba(#2d2b29, .7) 80%),
+      linear-gradient(90deg, transparent 40%, rgba(#2d2b29, 0.8)),
+      url(../images/harp-nook/hero.jpg);
+      left: -35%;
+    }
+  }
+
+  &__title {
+    border-bottom: 2px solid #a7342d;
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    line-height: base-unit(5);
+    margin-bottom: base-unit(3);
+    text-transform: uppercase;
+  }
+}
+
+
+.aa-nook__experiences {
+  background-color: $aa-white;
+}
+
+.aa-nook__experiences-title {
+  border-bottom: 2px solid #a7342d;
+  font-family: 'Questrial', sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+  text-transform: uppercase;
+}
+
+.aa-nook__experience {
+  border-radius: 5px;
+  border: 1px solid white;
+  margin-bottom: 20px;
+  padding: 20px 25px;
+}
+
+.aa-nook__experience-title {
+  font-family: 'Questrial', sans-serif;
+  font-weight: 600;
+  padding-bottom: 6px;
+}
+
+.aa-nook__contact-me {
+  border: 1px solid $aa-font-color-light;
+  border-radius: 4px;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 5px 10px;
+}
