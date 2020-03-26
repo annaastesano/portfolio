@@ -1,10 +1,10 @@
 $title@: The Harp Nook
-$path: /harp-nook
+$path: /harp-nook/
 $view: /views/pages/harp-nook.html
 
 $localization:
   default_locale: en
-  path: /{locale}/harp-nook
+  path: /{locale}/harp-nook/
   $locales:
     - it
     - fr

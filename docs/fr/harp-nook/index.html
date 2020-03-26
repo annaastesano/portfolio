@@ -1,7 +1,66 @@
-{% extends '/views/base.html' %}
-  <body {% block body_attributes %} {% endblock %}>
+<!DOCTYPE html>
 
-    {% block header %}
+<html lang="fr" itemscope itemtype="http://schema.org/WebSite">
+  <head>
+    <meta charset="utf-8">
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+    <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+
+    <title>The Harp Nook - Anna Astesano</title>
+
+    <link href="/static/css/site.min.css" rel="stylesheet">
+      <link rel="shortcut icon" href="/static/images/favicon.png">
+
+      <meta property="og:image" content="https://anna.astesano.com/static/images/harp-nook/hero-desk.jpg">
+    <meta property="og:title" content="The Harp Nook - Anna Astesano">
+    <meta property="og:site_name" content="Anna Astesano">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://anna.astesano.com/fr/harp-nook/">
+      <meta name="description" content="Tailored harp music from my living room to yours." itemprop="description">
+      <meta property="og:description" content="Tailored harp music from my living room to yours.">
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-62555583-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-62555583-2');
+    </script>
+
+    <script>
+        var locales = ['it', 'fr']
+        var lang = navigator.language || navigator.userLanguage;
+        var path = window.location.pathname
+        var isLocalised = false;
+
+        if (path.indexOf(`/it`) == 0 || path.indexOf(`/fr`) == 0) {
+          isLocalised = true;
+        }
+
+        for (i = 0; i < locales.length; i++) {
+          var locale = `/${locales[i]}`
+
+          if (path.indexOf(locale) == 0) {
+            path = path.replace(locale, '');
+            break;
+          }
+        }
+
+        if (!isLocalised) {
+          locales.forEach((locale) => {
+
+          if (lang.indexOf(locale) == 0)
+              window.locationf = `/${locale}` + path;
+
+          });
+        }
+    </script>
+  </head>
+
+  <body  >
     <header class="aa-header aa-color-light" data-js-header>
       <section class="wrapper container-fluid">
         <div class="aa-header__logo">
@@ -17,7 +76,7 @@
           </li>
           <li>
             <a href="#contacts">
-              {{_(doc.contact)}}
+              Contact
             </a>
           </li>
           <li class="aa-header__menu-bio">
@@ -28,9 +87,7 @@
         </ul>
       </section>
     </header>
-    {% endblock%}
-
-  {% block body %}
+    <main>
   <div class="harp-nook">
     <section class="aa-section aa-nook__hero">
       <section class="wrapper container-fluid aa-color-light">
@@ -130,31 +187,36 @@
             <div class="row">
               <div class="col-xs-12 col-tablet-4 col-tablet-offset-1">
                   <h1 class="beta aa-bio__title">
-                    {{_(doc.contact)}}
+                    Contact
                   </h1>
                   <p>
                     <a href="https://www.instagram.com/globetrotterharp/" target="_blank">
                       <img src="/static/images/icons/instagram.svg" alt="" class="link__icon">
-                      {{_(doc.instagram)}}
+                      @globetrotterharp
                     </a>
                   </p>
                 </div>
                 <form class="col-xs-12 col-tablet-5 col-tablet-offset-1"
                     action="https://formspree.io/annarpa93@gmail.com"
                     method="POST">
-                  <label for="name">{{_(doc.your_name)}}:</label>
+                  <label for="name">Your name:</label>
                   <input type="text" id="name" name="name">
-                  <label for="email">{{_(doc.your_mail)}}:</label>
+                  <label for="email">Your email address:</label>
                   <input type="email" id="email" name="_replyto">
-                  <label for="message">{{_(doc.your_message)}}:</label>
+                  <label for="message">Message:</label>
                   <input type="text" name="_gotcha" style="display:none">
                   <input type="hidden" name="_subject" value="Message via http://annaastesano.com">
                   <textarea id="message" name="message" rows="10" required></textarea>
                   <button type="submit">
-                    {{_(doc.send)}}
+                    Send
                   </button>
                 </form>
             </div>
     </section>
   </div>
-{% endblock %}
+    </main>
+
+
+    <script src="/static/js/site.min.js"></script>
+  </body>
+</html>

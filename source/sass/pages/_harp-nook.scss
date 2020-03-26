@@ -32,6 +32,11 @@
   padding: 0;
   text-transform: uppercase;
   line-height: normal;
+
+  @include mq($until: tablet) {
+    font-size: 55px;
+    padding-top: 20px;
+  }
 }
 
 .aa-nook__sub-title {
@@ -127,6 +132,14 @@
   border: 1px solid $aa-font-color-light;
   border-radius: 4px;
   display: inline-block;
+  margin-right : 20px;
   margin-top: 20px;
   padding: 5px 10px;
+}
+
+
+.aa-header__menu-bio {
+  border: 1px solid $aa-font-color-light;
+  border-radius: 4px;
+  padding: 0 10px;
 }
