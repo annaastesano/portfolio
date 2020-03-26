@@ -14,11 +14,11 @@
     {% endif %}
 
     {% if doc.meta_image %}
-          <meta property="og:image" content="{{g.static(doc.meta_image).url}}">
+      <meta property="og:image" content="{{g.static(doc.meta_image).url}}">
     {% elif podspec.meta.image_path %}
       <meta property="og:image" content="{{g.static(podspec.meta.image_path).url}}">
     {% endif %}
-    <meta property="og:title" content="{% if doc.title %}{{doc.title}} – {% endif %}">
+    <meta property="og:title" content="{{_(doc.title)}} - Anna Astesano">
     <meta property="og:site_name" content="{{podspec.title}}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{doc.url}}">
