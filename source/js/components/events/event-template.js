@@ -27,8 +27,10 @@ const eventTemplate = `
             {{formatTime date}},
         </span>
         {{/if}}
-        <span class="aa-event__where" itemprop="location">
-        {{where}}
+        <span class="aa-event__where"  itemprop="location" itemscope itemtype="http://schema.org/Place">
+          <span class="address" itemprop="name">
+            {{where}}
+          </span>
         </span>
     </div>
     </div>
@@ -53,7 +55,7 @@ const eventTemplate = `
     </div>
 </div>
 {{#if maps_link }}
-    <a href="{{maps_link}}" target="_blank" class="aa-event__maps-link" temprop="location" >
+    <a href="{{maps_link}}" target="_blank" class="aa-event__maps-link">
     <img src="/static/images/icons/map.svg" title="See on google maps" class="link__icon link__icon--map">
     </a>
 {{/if}}
