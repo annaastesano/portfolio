@@ -13,6 +13,19 @@
       <link rel="shortcut icon" href="{{g.static(podspec.meta.favicon_path).url.path}}">
     {% endif %}
 
+
+    {% for locale in podspec.localization.locales %}
+    <link
+        rel="alternate"
+        href="{{g.doc('/content/pages/home.yaml', locale=locale).url}}"
+        hreflang="{{locale}}" />
+    {% endfor %}
+    <link
+        rel="alternate"
+        href="{{g.doc('/content/pages/home.yaml', locale=locale).url}}"
+        hreflang="x-default" />
+
+
     {% if doc.meta_image %}
       <meta property="og:image" content="{{g.static(doc.meta_image).url}}">
     {% elif podspec.meta.image_path %}
