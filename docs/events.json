@@ -679,7 +679,7 @@
     "where": "St Gabriel’s Church, Pimlico, SW1V 2AD",
     "programme": "Mendelssohn, Elgar, Tchaikovsky",
     "more_info": "<a href=\" https://www.londoncityorchestra.com\" target=\"_blank\">What's on and tickets</a>",
-    "date": "2021-12-13T19:00",
+    "date": "2021-12-13T19:00"
   },
    {
     "bk_date": "21/01/2022",
@@ -688,7 +688,7 @@
     "title": "Afternoon Concert, Duo Flute and Harp with Emma Harding",
     "where": "The Claremont Project, N1 9PD",
     "programme": "Rota, Ibert, Debussy",
-    "date": "2022-01-21T14:00",
+    "date": "2022-01-21T14:00"
   },
   {
     "bk_date": "12/05/2022",
@@ -698,7 +698,7 @@
     "where": "Trinity Laban Conservatoire of Music and Dance, Peacock Room",
     "programme": "Puccini, Ravel, Hirano",
     "more_info": "<a href=\" https://www.trinitylaban.ac.uk/whats-on\" target=\"_blank\">What's on and tickets</a>",
-    "date": "2022-05-12T18:00",
+    "date": "2022-05-12T18:00"
   },
  {
     "bk_date": "23/07/2022",
@@ -708,6 +708,6 @@
     "where": "Dora Stoutzker Concert Hall",
     "programme": "Puccini, Ravel, Hirano, Zappa",
     "more_info": "<a href=\" https://www.whc2022.wales\" target=\"_blank\">What's on and tickets</a>",
-    "date": "2022-07-23T09:00",
+    "date": "2022-07-23T09:00"
   }
 ]
