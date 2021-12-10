@@ -678,7 +678,7 @@
     "title": "Very Festive Chrismas concert, London City Orchestra",
     "where": "St Gabriel’s Church, Pimlico, SW1V 2AD",
     "programme": "Mendelssohn, Elgar, Tchaikovsky",
-    "more_info": "<a href=\" https://www.londoncityorchestra.com\" target=\"_blank\">What's on and tickets</a>"
+    "more_info": "<a href=\" https://www.londoncityorchestra.com\" target=\"_blank\">What's on and tickets</a>",
   },
    {
     "date": "2022-01-21T14:00",
@@ -695,7 +695,7 @@
     "title": "Rutsu, Album launch Tour",
     "where": "Trinity Laban Conservatoire of Music and Dance, Peacock Room",
     "programme": "Puccini, Ravel, Hirano",
-    "more_info": "<a href=\" https://www.trinitylaban.ac.uk/whats-on\" target=\"_blank\">What's on and tickets</a>"
+    "more_info": "<a href=\" https://www.trinitylaban.ac.uk/whats-on\" target=\"_blank\">What's on and tickets</a>",
   },
  {
     "date": "2022-07-23T09:00",
@@ -704,6 +704,6 @@
     "title": "World Harp Congress",
     "where": "Dora Stoutzker Concert Hall",
     "programme": "Puccini, Ravel, Hirano, Zappa",
-    "more_info": "<a href=\" https://www.whc2022.wales\" target=\"_blank\">What's on and tickets</a>"
+    "more_info": "<a href=\" https://www.whc2022.wales\" target=\"_blank\">What's on and tickets</a>",
   }
 ]
