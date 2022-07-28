@@ -39,6 +39,7 @@
     "more_info": "<a href=\"https://www.teatrolafenice.it/event/valentina-ciardelli-e-anna-astesano-in-concerto/\" target=\"_blank\">What's on and tickets</a>",
     "date": "2022-05-19T18:00"
   },
+  <p hidden>
   {
     "bk_date": "06/06/2018",
     "hour": "13:00",
@@ -730,6 +731,7 @@
     "programme": "Rota, Ibert, Debussy",
     "date": "2022-01-21T14:00"
   },
+</p> 
  {
     "bk_date": "23/07/2022",
     "hour": "10: 00",
