@@ -1,5 +1,25 @@
 [
   {
+    "bk_date": "29/09/2022",
+    "hour": "17:00",
+    "maps_link": "https://goo.gl/maps/KWsUkW7BiAohqcvN7",
+    "title": "Di Suono in Gioco - Rassegna Cameristica Lingotto Musica, in collaborazione con l'Associazione De Sono",
+    "where": "Reggia di Venaria",
+    "programme": "The Girls in the Magnesium Dress",
+    "more_info": "<a href=\"https://www.turismotorino.org/it/esperienze/eventi/di-suono-gioco-girls-magnesium-dress-alla-reggia-di-venaria/\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2022-09-29T17:00"
+  },
+  {
+    "bk_date": "07/08/2022",
+    "hour": "21:00",
+    "maps_link": "https://goo.gl/maps/WRYBTmzGaCAQTE2z7",
+    "title": "Dagli Anime a Madama Butterfly-Japonisme 2.0",
+    "where": "Villa Bertelli, Forte dei Marmi",
+    "programme": "Ruutsu album- The Girls in the Magnesium Dress",
+    "more_info": "<a href=\"https://www.massacarraranews.com/2022/07/20/the-girls-the-magnesium-dress-duo-la-musica-unisce-giappone-loccidente-europeo/?fbclid=IwAR2Kw4oGF9rvOcj8J2OyofgRnavb33ZqJPHAh96yUcywqZP7oIeUbrDmUQk/\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2022-08-07T21:00"
+  },
+  {
     "bk_date": "06/06/2018",
     "hour": "13:00",
     "maps_link": "https://goo.gl/maps/wMuoBHVmYw22",
@@ -690,24 +710,14 @@
     "programme": "Rota, Ibert, Debussy",
     "date": "2022-01-21T14:00"
   },
-  {
-    "bk_date": "12/05/2022",
-    "hour": "18: 00",
-    "maps_link": "https://goo.gl/maps/5MhxUrRy8Jajp4sN6",
-    "title": "Rutsu, Album launch Tour",
-    "where": "Trinity Laban Conservatoire of Music and Dance, Peacock Room",
-    "programme": "Puccini, Ravel, Hirano",
-    "more_info": "<a href=\" https://www.trinitylaban.ac.uk/whats-on\" target=\"_blank\">What's on and tickets</a>",
-    "date": "2022-05-12T18:00"
-  },
  {
     "bk_date": "23/07/2022",
-    "hour": "9: 00",
+    "hour": "10: 00",
     "maps_link": "https://goo.gl/maps/YbtCdv5ZrtPcmUPb7",
     "title": "World Harp Congress",
     "where": "Dora Stoutzker Concert Hall",
-    "programme": "Puccini, Ravel, Hirano, Zappa",
+    "programme": "Ruutsu Presentation",
     "more_info": "<a href=\" https://www.whc2022.wales\" target=\"_blank\">What's on and tickets</a>",
-    "date": "2022-07-23T09:00"
+    "date": "2022-07-23T10:00"
   }
 ]
