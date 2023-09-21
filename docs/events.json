@@ -1,12 +1,102 @@
 [
   {
+    "bk_date": "18/11/2023",
+    "hour": "18:00",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Orchestra dell’Accademia Nazionale di Santa Cecilia-Yamada",
+    "where": "Auditorium Parco della musica",
+    "programme": "Berg Violin Concerto “To the memory of an angel”, Berlioz Symphonie fantastique",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/roma-ivan-fischer/?replica=836//\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2023-11-18T18:00"
+  },
+  {
+    "bk_date": "17/11/2023",
+    "hour": "20:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Orchestra dell’Accademia Nazionale di Santa Cecilia-Yamada",
+    "where": "Auditorium Parco della musica",
+    "programme": "Berg Violin Concerto “To the memory of an angel”, Berlioz Symphonie fantastique",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/roma-ivan-fischer/?replica=836/\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2023-11-17T20:30"
+  },
+  {
+    "bk_date": "16/11/2023",
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Orchestra dell’Accademia Nazionale di Santa Cecilia-Yamada",
+    "where": "Auditorium Parco della musica",
+    "programme": "Berg Violin Concerto To the memory of an angel, Berlioz Symphonie fantastique",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/roma-ivan-fischer/?replica=836/\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2023-11-16T19:30"
+  },
+    {
+    "bk_date": "28/10/2023",
+    "hour": "16:30",
+    "maps_link": "https://maps.app.goo.gl/UMXHnsv2JNGDt1sr8",
+    "title": "Note dal Cammino Balteo, duo Viora-Astesano, Lingotto Musica",
+    "where": "Chiesa di Saint-Léger, Località Saint-Léger, Aymavilles (AO)",
+    "programme": "Glinka, Rossini, Ibert, Debussy, Piazzolla",
+    "more_info": "<a href=\"https://www.lingottomusica.it/concerts/viora-astesano-note-dal-cammino-balteo-3/\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2023-10-28T16:30"
+  },
+  {
+    "bk_date": "14/10/2023",
+    "hour": "18:00",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Orchestra dell’Accademia Nazionale di Santa Cecilia-Ivan Fischer",
+    "where": "Auditorium Parco della musica",
+    "programme": "Respighi: Fountains of Rome, Pines of Rome, Roman Festivals; Liszt solo choir",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/roma-ivan-fischer/?replica=836/\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2023-10-14T18:00"
+  },
+  {
+    "bk_date": "13/10/2023",
+    "hour": "20:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Orchestra dell’Accademia Nazionale di Santa Cecilia-Ivan Fischer",
+    "where": "Auditorium Parco della musica",
+    "programme": "Respighi: Fountains of Rome, Pines of Rome, Roman Festivals; Liszt solo choir",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/roma-ivan-fischer/?replica=836/\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2023-10-13T20:30"
+  },
+  {
+    "bk_date": "12/10/2023",
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Orchestra dell’Accademia Nazionale di Santa Cecilia-Ivan Fischer",
+    "where": "Auditorium Parco della musica",
+    "programme": "Respighi: Fountains of Rome, Pines of Rome, Roman Festivals; Liszt solo choir",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/roma-ivan-fischer/?replica=836/\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2023-10-12T19:30"
+  },
+  {
+    "bk_date": "06/10/2023",
+    "hour": "20:00",
+    "maps_link": "https://maps.app.goo.gl/923fzVPNgGZa1UGa7",
+    "title": "Orchestra del Teatro dell'Opera di Roma-Wellber",
+    "where": "Teatro dell'Opera di Roma",
+    "programme": "Valchiria-Act 1",
+    "more_info": "<a href=\"https://www.operaroma.it/spettacoli/die-walkure-la-valchiria-i-atto/\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2023-10-06T20:00"
+  },
+  {
+    "bk_date": "27/09/2023",
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/Jn1KuNnsbYNmMfeX8",
+    "title": "Orchestra dell’Accademia Nazionale di Santa Cecilia-Ivan Fischer",
+    "where": "BRIDGING EUROPE FESTIVAL Budapest, Béla Bartók National Concert Hall",
+    "programme": "Respighi: Fountains of Rome, Pines of Rome, Roman Festivals",
+    "more_info": "<a href=\"https://m.mupa.hu/en/program/classical-music-opera-theatre/orchestra-dell-accademia-nazionale-di-santa-cecilia-2023-09-27_19-30-bela-bartok-national-concert-hall/\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2023-09-27T19:30"
+  },
+  {
     "bk_date": "18/10/2022",
     "hour": "19:00",
     "maps_link": "https://goo.gl/maps/1CfVum49Xpt61i277",
     "title": "Ruutsu Album Presentation",
     "where": "Blackheath Halls",
     "programme": "Ruutsu album- The Girls in the Magnesium Dress",
-    "more_info": "<a href=\"https://www.blackheathhalls.com/whats-on//\" target=\"_blank\">What's on and tickets</a>",
+    "more_info": "<a href=\"https://www.blackheathhalls.com/whats-on/\" target=\"_blank\">What's on and tickets</a>",
     "date": "2022-10-18T19:00"
   },
   {
