@@ -1,5 +1,21 @@
 [
     {
+    "hour": "20:30",
+    "maps_link": "https://maps.app.goo.gl/9D2dqFjS2ekPQ1Um9",
+    "title": "How I met Puccini Ⓡ",
+    "where": "Firenze, la Certosa",
+    "programme": "Musiche di Giacomo Puccini",
+    "date": "2024-09-18T20:30"
+  },
+    {
+    "hour": "20:30",
+    "maps_link": "https://maps.app.goo.gl/yBafywHqZCjzgxPn8",
+    "title": "Ruutsu and How I met Puccini Ⓡ",
+    "where": "Hong Kong City Hall",
+    "programme": "Music for guqin, harp, double bass and piano",
+    "date": "2024-09-05T20:30"
+  },
+    {
     "hour": "21:30",
     "maps_link": "https://maps.app.goo.gl/ibbeSXoESz3tXLS58",
     "title": "Fortissime",
