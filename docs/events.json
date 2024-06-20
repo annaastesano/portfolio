@@ -1,5 +1,22 @@
 [
-
+    {
+    "hour": "21:30",
+    "maps_link": "https://maps.app.goo.gl/ibbeSXoESz3tXLS58",
+    "title": "Fortissime",
+    "where": "Collodi, Storico Giardino Garzoni",
+    "programme": "The Girls in the Magnesium Dress play Puccini",
+    "more_info": "<a href=\"https://www.pinocchio.it/it/fortissime-638544130920325149" target=\"_blank\">What's on and tickets</a>",
+    "date": "2024-07-06T21:30"
+  },
+  {
+    "hour": "21:00",
+    "maps_link": "https://maps.app.goo.gl/qSLez2DMD6Z2ssAu8",
+    "title": "Atmosphère de rêve",
+    "where": "Torino, Palazzo Biandrate Aldobrandino",
+    "programme": "Flute and Harp duo with Rebecca Viora",
+    "more_info": "<a href=\"https://museorealemutua.org/page3.php?id=32" target=\"_blank\">More information</a>",
+    "date": "2024-07-04T21:00"
+  },
   {
     "hour": "18:00",
     "maps_link": "https://maps.app.goo.gl/nYzf7VihMV1nKKPv5",
