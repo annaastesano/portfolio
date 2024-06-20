@@ -59,5 +59,14 @@
     "programme": "Gala Verdi, 30-31 maggio e 1 giugno",
     "more_info": "<a href=\"https://santacecilia.it/concerto/gala-verdi-daniele-gatti//\" target=\"_blank\">What's on and tickets</a>",
     "date": "2024-05-30T19:30"
+  },
+    {
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Orchestra dell’Accademia Nazionale di Santa Cecilia-Bychkov",
+    "where": "Auditorium Parco della musica",
+    "programme": "Bruckner 8, 23-24-25 maggio",
+    "more_info": "<a href=\"https://santacecilia.it/en/concerto/semyon-bychkov//\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2024-05-23T19:30"
   }
 ]
