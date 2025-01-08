@@ -1,5 +1,65 @@
 [
     {
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Rustioni",
+    "where": "Auditorium Parco della Musica, replicated on 14th and 15th",
+    "programme": "Prokofiev - Ivan il Terribile",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/rustioni-ivan-il-terribile/?replica=1179//\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-02-13T19:30"
+  },
+    {
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Rustioni",
+    "where": "Auditorium Parco della Musica, replicated on 14th and 15th",
+    "programme": "Prokofiev - Ivan il Terribile",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/rustioni-ivan-il-terribile/?replica=1179//\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-02-13T19:30"
+  },
+    {
+    "hour": "tbc",
+    "title": "The girls in the Magnesium Dress",
+    "where": "Teatro di Pietrasanta",
+    "programme": "Ruutsu",
+    "date": "2025-02-09"
+  },
+    {
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Viotti",
+    "where": "Auditorium Parco della Musica, replicated on 7th and 8th",
+    "programme": "Schumann, Debussy, Zemlinsky",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/lorenzo-viotti-primavera/?replica=1177//\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-02-06T19:30"
+  },
+    {
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Pappano, Kholodenko",
+    "where": "Auditorium Parco della Musica, replicated on 31th and February 1st",
+    "programme": "Debussy, Busoni",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/antonio-pappano-vadym-kholodenko/?replica=1172//\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-01-30T19:30"
+  },
+    {
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Honeck, Maisky",
+    "where": "Auditorium Parco della Musica, replicated on 24th and 25th",
+    "programme": "Strauss, Saint-Saens, Shostakovich",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/manfred-honeck-mischa-maisky/?replica=1169//\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-01-23T19:30"
+  },
+    {
+    "hour": "11:00",
+    "maps_link": "https://maps.app.goo.gl/c44yQJC1bd7jaViH6",
+    "title": "Duo Astesano-Viora",
+    "where": "NH Hotel - Torino Piazza Carlina",
+    "programme": "Andres, Piazzolla, Ibert, Nadermann",
+    "date": "2025-01-19T11:00"
+  },
+    {
     "hour": "20:30",
     "maps_link": "https://maps.app.goo.gl/9D2dqFjS2ekPQ1Um9",
     "title": "How I met Puccini Ⓡ",
