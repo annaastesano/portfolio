@@ -1,5 +1,50 @@
 [
     {
+    "hour": "10:00",
+    "maps_link": "https://maps.app.goo.gl/tvsuSfBqbNgi22HQ9",
+    "title": "Nei cieli bigi - The Girls in the Magnesium Dress",
+    "where": "Ridotto del Teatro Regio di Parma",
+    "programme": "Fantasia dui temi della Boheme di Giacomo Puccini",
+    "more_info": "In collaborazione con Associazione De Sono, Livemotiv",
+    "date": "2025-03-25T10:00"
+  },
+    {
+    "hour": "10:00",
+    "maps_link": "https://maps.app.goo.gl/tvsuSfBqbNgi22HQ9",
+    "title": "Fortissime! - The Girls in the Magnesium Dress",
+    "where": "Ridotto del Teatro Regio di Parma",
+    "programme": "Le protagoniste di Giacomo Puccini",
+    "more_info": "<a href=\"https://www.teatroregioparma.it/en/spettacolo/fortissime-f-come-forti-f-come-femmine//\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-03-24T10:00"
+  },
+    {
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Guggeis",
+    "where": "Auditorium Parco della Musica, replicated on 14th and 15th",
+    "programme": "Strauss, Brahms, Liszt",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/brahms-doppio-concerto-thomas-guggeis/?replica=1216//\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-03-13T19:30"
+  },
+    {
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Treviño",
+    "where": "Auditorium Parco della Musica, replicated on 7th and 8th",
+    "programme": "Strauss, Mozart",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/robert-trevino-javier-perianes-mozart/?replica=1212//\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-03-06T19:30"
+  },
+    {
+    "hour": "19:30",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Sokhiev",
+    "where": "Auditorium Parco della Musica, replicated on 28th and March 1st",
+    "programme": "Shostakovich, Rinsky-Korsakov",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/tugan-sokhiev-istvan-vardai-sostakovic/?replica=1209//\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-02-27T19:30"
+  },
+    {
     "hour": "19:30",
     "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
     "title": "Accademia Nazionale di Santa Cecilia -Yamada",
