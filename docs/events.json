@@ -1,5 +1,23 @@
 [
     {
+    "hour": "20:30",
+    "maps_link": "https://maps.app.goo.gl/1hYHaety8MfMPdoR8",
+    "title": "Filarmonica Arturo Toscanini - De La Parra",
+    "where": "Teatro Pavarotti-Freni, Modena",
+    "programme": "Rimsky-Korsakov, Marquez, Gershwin",
+    "more_info": "https://www.teatrocomunalemodena.it/spettacolo/filarmonica-arturo-toscanini/",
+    "date": "2025-04-27T20:30"
+  },
+    {
+    "hour": "20:30",
+    "maps_link": "https://maps.app.goo.gl/rhKLY3WuUbAAgLsRA",
+    "title": "Filarmonica Arturo Toscanini - De La Parra",
+    "where": "Auditorium Paganini, Parma",
+    "programme": "Rimsky-Korsakov, Marquez, Gershwin",
+    "more_info": "https://biglietterialatoscanini.it/calendario.aspx",
+    "date": "2025-04-24T20:30"
+  },
+    {
     "hour": "11:30",
     "title": "Nei cieli bigi - The Girls in the Magnesium Dress",
     "where": "Teatro Anna Franck, IC Ferrari di Parma",
@@ -28,15 +46,6 @@
     {
     "hour": "19:30",
     "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
-    "title": "Accademia Nazionale di Santa Cecilia - Treviño",
-    "where": "Auditorium Parco della Musica, replicated on 7th and 8th",
-    "programme": "Strauss, Mozart",
-    "more_info": "<a href=\"https://santacecilia.it/concerto/robert-trevino-javier-perianes-mozart/?replica=1212//\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-03-06T19:30"
-  },
-    {
-    "hour": "19:30",
-    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
     "title": "Accademia Nazionale di Santa Cecilia - Sokhiev",
     "where": "Auditorium Parco della Musica, replicated on 28th and March 1st",
     "programme": "Shostakovich, Rinsky-Korsakov",
@@ -51,32 +60,5 @@
     "programme": "Hindemith, Rachmaninov, Stravinsky",
     "more_info": "<a href=\"https://santacecilia.it/concerto/kazuki-yamada-alexandre-kantorow/?replica=1206//\" target=\"_blank\">Info & Tickets</a>",
     "date": "2025-02-20T19:30"
-  },
-    {
-    "hour": "19:30",
-    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
-    "title": "Accademia Nazionale di Santa Cecilia - Rustioni",
-    "where": "Auditorium Parco della Musica, replicated on 14th and 15th",
-    "programme": "Prokofiev - Ivan il Terribile",
-    "more_info": "<a href=\"https://santacecilia.it/concerto/rustioni-ivan-il-terribile/?replica=1179//\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-02-13T19:30"
-  },
-    {
-    "hour": "19:30",
-    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
-    "title": "Accademia Nazionale di Santa Cecilia - Viotti",
-    "where": "Auditorium Parco della Musica, replicated on 7th and 8th",
-    "programme": "Schumann, Debussy, Zemlinsky",
-    "more_info": "<a href=\"https://santacecilia.it/concerto/lorenzo-viotti-primavera/?replica=1177//\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-02-06T19:30"
-  },
-    {
-    "hour": "19:30",
-    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
-    "title": "Accademia Nazionale di Santa Cecilia - Pappano, Kholodenko",
-    "where": "Auditorium Parco della Musica, replicated on 31th and February 1st",
-    "programme": "Debussy, Busoni",
-    "more_info": "<a href=\"https://santacecilia.it/concerto/antonio-pappano-vadym-kholodenko/?replica=1172//\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-01-30T19:30"
   }
 ]
