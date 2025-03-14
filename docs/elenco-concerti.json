@@ -1,5 +1,23 @@
 [
     {
+    "hour": "20:30",
+    "maps_link": "https://maps.app.goo.gl/1hYHaety8MfMPdoR8",
+    "title": "Filarmonica Arturo Toscanini - De La Parra",
+    "where": "Teatro Pavarotti-Freni, Modena",
+    "programme": "Rimsky-Korsakov, Marquez, Gershwin",
+    "more_info": "https://www.teatrocomunalemodena.it/spettacolo/filarmonica-arturo-toscanini/",
+    "date": "2025-04-27T20:30"
+  },
+    {
+    "hour": "20:30",
+    "maps_link": "https://maps.app.goo.gl/rhKLY3WuUbAAgLsRA",
+    "title": "Filarmonica Arturo Toscanini - De La Parra",
+    "where": "Auditorium Paganini, Parma",
+    "programme": "Rimsky-Korsakov, Marquez, Gershwin",
+    "more_info": "https://biglietterialatoscanini.it/calendario.aspx",
+    "date": "2025-04-24T20:30"
+  },
+    {
     "hour": "10:00",
     "maps_link": "https://maps.app.goo.gl/tvsuSfBqbNgi22HQ9",
     "title": "Nei cieli bigi - The Girls in the Magnesium Dress",
