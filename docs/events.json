@@ -25,31 +25,5 @@
     "programme": "Debussy, Berio",
     "more_info": "<a href=\"https://santacecilia.it/en/concerto/tour-bucarest-2025-enescu/?replica=797/\" target=\"_blank\">Info & Tickets</a>",
     "date": "2025-08-30T19:30"
-  },
-  {
-    "hour": "21:30",
-    "title": "Festival Paesaggi dell’Arte 2025",
-    "where": "Chiostro di San Marco, Tarquinia (VT)",
-    "programme": "Ruutsu Album",
-    "more_info": "<a href=\"https://www.occhioviterbese.it/paesaggi-dellarte-2025/\" target=\"_blank\">What's on and tickets</a>",
-    "date": "2025-07-25T21:30"
-  },  
-    {
-    "hour": "22:00",
-    "maps_link": "https://maps.app.goo.gl/EFYHy6gktnDHzhJU9",
-    "title": "Accademia Nazionale di Santa Cecilia - Harding",
-    "where": "Granada - Palace of Charles V, Alhambra",
-    "programme": "Ravel Daphnis et Chloe, Debussy La Mer",
-    "more_info": "<a href=\"https://santacecilia.it/concerto/tour-granada/?replica=1408/\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-07-05T22:00"
-  },
-  {
-    "hour": "20:30",
-    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
-    "title": "Accademia Nazionale di Santa Cecilia - Harding",
-    "where": "Auditorium Parco della Musica",
-    "programme": "Ravel Daphnis et Chloe, Debussy La Mer",
-    "more_info": "<a href=\"https://santacecilia.it/concerto/daniel-harding-mahler-resurrezione/?replica=1188/\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-06-30T20:30"
   }
 ]
