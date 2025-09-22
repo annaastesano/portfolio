@@ -1,5 +1,14 @@
 [
   {
+    "hour": "20:30",
+    "maps_link": "https://maps.app.goo.gl/sUtPYcob1cmoc1e49",
+    "title": "Silent Sound n2",
+    "where": "Auditorium Rai Arturo Toscanini",
+    "programme": "Wilhelm Murnau, Faust",
+    "more_info": "<a href=\"https://www.raicultura.it/orchestrarai/eventi/Stagione-20252026---Silent-Sound-n-2-952d48da-a0b9-4e54-be3f-e7fe2420ad5c.html/\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-09-24T20:30" 
+  },
+  {
     "hour": "19:00",
     "maps_link": "https://maps.app.goo.gl/HjbknStGmiBCZWUq8",
     "title": "Accademia Nazionale di Santa Cecilia - Harding",
@@ -16,14 +25,5 @@
     "programme": "Verdi, Berio, Brahms",
     "more_info": "<a href=\"https://santacecilia.it/concerto/tournee-ljubljana-2025/\" target=\"_blank\">Info & Tickets</a>",
     "date": "2025-09-02T20:00"
-  },
-  {
-    "hour": "19:30",
-    "maps_link": "https://maps.app.goo.gl/RbmuLeJjzvG25TAa6",
-    "title": "Accademia Nazionale di Santa Cecilia - Harding",
-    "where": "Bucarest, Grand Palace Hall",
-    "programme": "Debussy, Berio",
-    "more_info": "<a href=\"https://santacecilia.it/en/concerto/tour-bucarest-2025-enescu/?replica=797/\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-08-30T19:30"
   }
 ]
