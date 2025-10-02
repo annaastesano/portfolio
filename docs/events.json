@@ -1,4 +1,30 @@
-[
+[ {
+    "hour": "18:00",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Wagner, Harding",
+    "where": "Auditorium Parco della Musica",
+    "programme": "Wagner: La Valchiria",
+    "more_info": "<a href=\"https://santacecilia.it/valchiria/\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-10-27T18:00"
+  },
+  {
+    "hour": "15:00",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Wagner, Harding",
+    "where": "Auditorium Parco della Musica",
+    "programme": "Wagner: La Valchiria",
+    "more_info": "<a href=\"https://santacecilia.it/valchiria/\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-10-25T15:00"
+  },
+  {
+    "hour": "18:00",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Wagner, Harding",
+    "where": "Auditorium Parco della Musica",
+    "programme": "Wagner: La Valchiria",
+    "more_info": "<a href=\"https://santacecilia.it/valchiria/\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2025-10-23T18:00"
+  },
   {
     "hour": "20:30",
     "maps_link": "https://maps.app.goo.gl/sUtPYcob1cmoc1e49",
