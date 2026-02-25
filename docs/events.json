@@ -1,55 +1,55 @@
 [ {
-    "hour": "18:00",
+    "hour": "20:00",
     "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
-    "title": "Accademia Nazionale di Santa Cecilia - Wagner, Harding",
-    "where": "Auditorium Parco della Musica",
-    "programme": "Wagner: La Valchiria",
-    "more_info": "<a href=\"https://santacecilia.it/valchiria/\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-10-27T18:00"
-  },
-  {
-    "hour": "15:00",
-    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
-    "title": "Accademia Nazionale di Santa Cecilia - Wagner, Harding",
-    "where": "Auditorium Parco della Musica",
-    "programme": "Wagner: La Valchiria",
-    "more_info": "<a href=\"https://santacecilia.it/valchiria/\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-10-25T15:00"
-  },
-  {
-    "hour": "18:00",
-    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
-    "title": "Accademia Nazionale di Santa Cecilia - Wagner, Harding",
-    "where": "Auditorium Parco della Musica",
-    "programme": "Wagner: La Valchiria",
-    "more_info": "<a href=\"https://santacecilia.it/valchiria/\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-10-23T18:00"
+    "title": "Accademia Nazionale di Santa Cecilia - Currentzis, Wang",
+    "where": "Auditorium Parco della Musica (extra dates 6th and 7th of March)",
+    "programme": "Prokofiev Piano Concerto n2, Shostakovich 13",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/teodor-currentzis/?replica=1493/\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2026-03-27T20:00"
   },
   {
     "hour": "20:30",
-    "maps_link": "https://maps.app.goo.gl/sUtPYcob1cmoc1e49",
-    "title": "Orchestra Sinfonica Nazionale RAI di Torino - Silent Sound n2",
+    "maps_link": "https://maps.app.goo.gl/GKYu7JJBo3jQZGYT6",
+    "title": "Orchestra Sinfonica Nazionale Rai di Torino - Treviño",
     "where": "Auditorium Rai Arturo Toscanini",
-    "programme": "Wilhelm Murnau, Faust",
-    "more_info": "<a href=\"https://www.raicultura.it/orchestrarai/eventi/Stagione-20252026---Silent-Sound-n-2-952d48da-a0b9-4e54-be3f-e7fe2420ad5c.html/\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-09-24T20:30" 
-  },
-  {
-    "hour": "19:00",
-    "maps_link": "https://maps.app.goo.gl/HjbknStGmiBCZWUq8",
-    "title": "Accademia Nazionale di Santa Cecilia - Harding",
-    "where": "Berlin Philharmonie",
-    "programme": "Debussy, Berio",
-    "more_info": "<a href=\"https://santacecilia.it/concerto/tournee-berlino-2025/\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-09-07T19:00"
+    "programme": "Adams, Copland",
+    "more_info": "<a href=\"https://www.raicultura.it/orchestrarai/eventi/Stagione-20252026---Rai-NuovaMusica-n-2-4176f7fc-3802-454c-a51a-20bf6943852e.html\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2026-03-19T20:30"
   },
   {
     "hour": "20:00",
-    "maps_link": "https://maps.app.goo.gl/yohGY1a5iSjbmy8s8",
-    "title": "Accademia Nazionale di Santa Cecilia - Harding",
-    "where": "Ljubljana, Cankarjev Dom",
-    "programme": "Verdi, Berio, Brahms",
-    "more_info": "<a href=\"https://santacecilia.it/concerto/tournee-ljubljana-2025/\" target=\"_blank\">Info & Tickets</a>",
-    "date": "2025-09-09T20:00"
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Harding, Winters",
+    "where": "Auditorium Parco della Musica (extra dates 15th and 16th of May)",
+    "programme": "Vacchi, Strauss",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/daniel-harding-corinne-winters/?replica=1517/\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2026-05-14T20:00"
+  },
+  {
+    "hour": "20:00",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Bychkov, Ax",
+    "where": "Auditorium Parco della Musica (extra dates 22nd and 23rd of May)",
+    "programme": "Mozart, Strauss",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/semyon-bychkov-emanuel-ax/?replica=1522\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2026-05-21T20:00"
+  },
+  {
+    "hour": "20:00",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Pappano, Kavakos",
+    "where": "Auditorium Parco della Musica (extra dates 29th and 30th of May)",
+    "programme": "Shostakovic, Schubert",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/antonio-pappano-leonidas-kavakos/?replica=1524\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2026-05-28T20:00"
+  },
+  {
+    "hour": "20:00",
+    "maps_link": "https://maps.app.goo.gl/xn48KZtEU5mLbzd78",
+    "title": "Accademia Nazionale di Santa Cecilia - Dutoit",
+    "where": "Auditorium Parco della Musica (extra dates 13th and 15th of May)",
+    "programme": "Berlioz, La Damnation de Faust",
+    "more_info": "<a href=\"https://santacecilia.it/concerto/charles-dutoit-berlioz-la-damnation-de-faust/?replica=1529\" target=\"_blank\">Info & Tickets</a>",
+    "date": "2026-06-11T20:00"
   }
 ]
